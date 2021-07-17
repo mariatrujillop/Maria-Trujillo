@@ -1,0 +1,6 @@
+co/com/bancolombia/certificacion/runners/ConversorDeTasas.java
+ co.com.bancolombia.certificacion.runners.ConversorDeTasas
+co/com/bancolombia/certificacion/setup/hook/Hook.java
+ co.com.bancolombia.certificacion.setup.hook.Hook
+co/com/bancolombia/certificacion/stepdefinitions/ConversorDeTasas.java
+ co.com.bancolombia.certificacion.stepdefinitions.ConversorDeTasas

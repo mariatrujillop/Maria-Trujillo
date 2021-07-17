@@ -1,0 +1,4441 @@
+<html lang="es" class=" cssanimations"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google" content="notranslate">
+<link href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/images/favicon/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link rel="stylesheet" href="/wps/contenthandler/!ut/p/digest!OFDFfhPHsZwvGO-EVRA2Gw/sp/mashup:ra:collection?soffset=0&amp;eoffset=23&amp;themeID=ZJ_9IH00JK0L8S180Q8O0PI07G6F6&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1619451376000&amp;entry=wp_one_ui_303__0.0%3Ahead_css&amp;entry=wp_one_ui_dijit_303__0.0%3Ahead_css&amp;entry=wp_toolbar_common__0.0%3Ahead_css&amp;entry=wp_status_bar__0.0%3Ahead_css&amp;entry=wp_dialog_css__0.0%3Ahead_css&amp;entry=wp_portlet_css__0.0%3Ahead_css&amp;entry=wp_social_rendering_85__0.0%3Ahead_css&amp;entry=wp_toolbar_projectmenu__0.0%3Ahead_css&amp;entry=wp_toolbar_common_actionbar__0.0%3Ahead_css&amp;entry=wp_toolbar_sitepreview__0.0%3Ahead_css&amp;entry=wp_toolbar_logo__0.0%3Ahead_css&amp;entry=wp_simple_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_toolbar_actionbar__0.0%3Ahead_css&amp;entry=wp_ic4_wai_resources__0.0%3Ahead_css&amp;entry=wp_theme_portal_85__0.0%3Ahead_css&amp;entry=wp_toolbar_moremenu__0.0%3Ahead_css&amp;entry=wp_oob_sample_styles__0.0%3Ahead_css" type="text/css"><link rel="alternate" id="head_css_deferred" href="/wps/contenthandler/!ut/p/digest!OFDFfhPHsZwvGO-EVRA2Gw/sp/mashup:ra:collection?soffset=0&amp;eoffset=6&amp;themeID=ZJ_9IH00JK0L8S180Q8O0PI07G6F6&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1619451378000&amp;entry=wp_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_federated_documents_picker__0.0%3Ahead_css&amp;entry=wcm_inplaceEdit__0.0%3Ahead_css&amp;entry=wp_dnd_css__0.0%3Ahead_css&amp;entry=wp_content_targeting_cam__0.0%3Ahead_css&amp;deferred=true"><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=OPT-5GNTPJC&amp;t=gtm37&amp;cid=1708564193.1626475532&amp;aip=true"></script><script src="https://connect.facebook.net/signals/config/1057072597705880?v=2.9.43&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W95WRK"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W95WRK"></script><script type="text/javascript">var djConfig={"baseUrl":"/wps/portal_dojo/v1.9/dojo/","locale":"es","isDebug":false,"debugAtAllCosts":false,"parseOnLoad":false,"afterOnLoad":false,"has":{"dojo-bidi":true},"modulePaths":{"com":"/wps/themeModules/js/com","ibm":"/wps/themeModules/js/ibm","pagebuilder":"/wps/themeModules/modules/pagebuilder/js","portalclient":"/wps/themeModules/modules/portalclient/js","asa":"/wps/themeModules/modules/asa/js","contentmapping":"/wps/themeModules/modules/contentmapping/js","federation":"/wps/themeModules/modules/federation/js"}};djConfig.locale=djConfig.locale.replace(/_/g, "-").replace(/iw/, "he").toLowerCase();(function(){if (typeof(wpModules) == 'undefined') wpModules = {}; if (typeof(wpModules.state) == 'undefined') wpModules.state = {}; if (typeof(wpModules.state.page) == 'undefined') wpModules.state.page = {};wpModules.state.page._initial=[{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"selection","value":["Z6_2G9I1K41N8AD50QDBM0JIMJDS2"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"labelMappings","value":["Z6_000000000000000000000000A0","Z6_2G9I1K41N8AD50QDBM0JIMJDS2","Z6_2G9I1K41N8AD50QDBM0JIMJDS2","Z6_000000000000000000000000A0"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"expansions","value":["Z6_000000000000000000000000A0"]}];wpModules.state.page.selectionPath=['Z6_000000000000000000000000A0','Z6_2G9I1K41N8AD50QDBM0JIMJDS2'];wpModules.state.page.supportsEditMode=true;wpModules.state.page.supportsToolbar=true;wpModules.state.page.path='/wps/portal';wpModules.state.page.protectedPath='/wps/myportal';wpModules.state.page.publicPath='/wps/portal';})();</script><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!OFDFfhPHsZwvGO-EVRA2Gw/mashup/ra:collection?themeID=ZJ_9IH00JK0L8S180Q8O0PI07G6F6&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1619451378000&amp;entry=wp_client_main__0.0%3Ahead_js&amp;entry=wp_client_ext__0.0%3Ahead_js&amp;entry=wp_client_logging__0.0%3Ahead_js&amp;entry=wp_client_tracing__0.0%3Ahead_js&amp;entry=wp_modules__0.0%3Ahead_js&amp;entry=wp_state_page__0.0%3Ahead_js&amp;entry=wp_photon_dom__0.0%3Ahead_js&amp;entry=wp_dialog_util__0.0%3Ahead_js&amp;entry=wp_toolbar_common__0.0%3Ahead_js&amp;entry=wp_client_selector__0.0%3Ahead_js&amp;entry=wp_analytics_aggregator__0.0%3Ahead_js&amp;entry=wp_theme_utils__0.0%3Ahead_js&amp;entry=wp_dialog_draggable__0.0%3Ahead_js&amp;entry=wp_dialog_main__0.0%3Ahead_js&amp;entry=wp_toolbar_viewframe_validator__0.0%3Ahead_js&amp;entry=wp_social_rendering_85__0.0%3Ahead_js&amp;entry=wp_a11y__0.0%3Ahead_js&amp;entry=wp_theme_portal_85__0.0%3Ahead_js"></script><link rel="alternate" id="head_js_deferred" href="/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/mashup/ra:collection?themeID=ZJ_9IH00JK0L8S180Q8O0PI07G6F6&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1512156768000&amp;entry=dojo_19__0.0%3Ahead_js&amp;entry=dojo_app_19__0.0%3Ahead_js&amp;entry=dojo_dom_19__0.0%3Ahead_js&amp;entry=dojo_dnd_basic_19__0.0%3Ahead_js&amp;entry=dojo_fx_19__0.0%3Ahead_js&amp;entry=dojo_data_19__0.0%3Ahead_js&amp;entry=dojo_dnd_ext_19__0.0%3Ahead_js&amp;entry=dojo_selector_lite_19__0.0%3Ahead_js&amp;entry=dijit_19__0.0%3Ahead_js&amp;entry=dijit_layout_basic_19__0.0%3Ahead_js&amp;entry=dojox_layout_basic_19__0.0%3Ahead_js&amp;entry=dijit_menu_19__0.0%3Ahead_js&amp;entry=dojo_fmt_19__0.0%3Ahead_js&amp;entry=dijit_form_19__0.0%3Ahead_js&amp;entry=wp_dnd_namespace__0.0%3Ahead_js&amp;entry=dijit_tree_19__0.0%3Ahead_js&amp;entry=dijit_layout_ext_19__0.0%3Ahead_js&amp;entry=wp_dnd_source__0.0%3Ahead_js&amp;entry=wp_dnd_util__0.0%3Ahead_js&amp;entry=wp_contextmenu_js__0.0%3Ahead_js&amp;entry=wcm_inplaceEdit__0.0%3Ahead_js&amp;entry=wp_client_dnd__0.0%3Ahead_js&amp;entry=wp_dnd_target__0.0%3Ahead_js&amp;deferred=true"><!--[if IE 7]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie lotusui_ie7";</script>
+<![endif]--> 
+<!--[if IE 8]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie8";</script>
+<![endif]-->
+<!--[if IE 9]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie9";</script>
+<![endif]-->
+<link id="LXIg8:IBIl6" rel="alternate" href="https://www.grupobancolombia.com/wps/portal/negocios/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijdwtPQ29TQz9LBxdTA0CXZx8Dbw8fb1cgo30w8EKDHAARwP9KGL041EQhd_4cP0oQkoKckMjDNIVFQGT65CU/"><script type="text/javascript">(function() {
+	var element = document.getElementById("LXIg8:IBIl6");
+	if (element) {
+		wpModules.theme.WindowUtils.baseURL.resolve(element.href);
+	}
+}());</script><style id="layout-wstate-styles"></style><base href="https://www.grupobancolombia.com/wps/portal/negocios/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijdwtPQ29TQz9LBxdTA0CXZx8Dbw8fb1cgo30w8EKDHAARwP9KGL041EQhd_4cP0oQkoKckMjDNIVFQGT65CU/">
+<title>Encuentra aquí las soluciones financieras para tu negocio. Bancolombia</title>
+
+
+<meta content="Tarjetas Bancolombia para negocios,Productos financieros Bancolombia,Linea de crédito para negocios,Créditos para iniciar negocio,Creditos para negocios nuevos colombia,Créditos para pymes,Bancolombia pymes" name="keywords"><meta content="Conoce toda la información de las soluciones financiera que tenemos en Bancolombia para potenciar tu negocio. Conoce más aquí" name="description">
+	
+	<link id="com.ibm.lotus.NavStateUrl" rel="alternate" href="/wps/portal/negocios">
+		
+	<link rel="bookmark" title="Negocios" href="/wps/portal/negocios" hreflang="es">
+		
+                <link rel="canonical" href="https://www.grupobancolombia.com/wps/portal/negocios">
+            <!-- <link -->
+<!-- 	rel="shortcut icon" type="image/x-icon" /> --><!-- BEGIN LivePerson Monitor. -->
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/le-mtagconfig.js"></script>
+<!-- END LivePerson Monitor. -->
+
+<!--   <link rel="stylesheet" type="text/css" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/bootstrap.min.css"/> -->
+<!--   <link rel="stylesheet" type="text/css" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/component.css"/> -->
+<!--   <link rel="stylesheet" type="text/css" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/main-menu.css" /> -->
+<!--   <link rel="stylesheet" type="text/css" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/menu-top.css" /> -->
+<!--   <link rel="stylesheet" type="text/css" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/breadcrumbs.css" /> -->
+  <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700,800" rel="stylesheet">
+  
+
+  <!-- Styles Generales -->
+  <link rel="stylesheet" href="/wps/wcm/connect/12635029-4fd6-4e31-8385-1334e5b105a0/bancolombia.css?MOD=AJPERES&amp;ContentCache=NONE&amp;CACHE=NONE&amp;CACHEID=12635029-4fd6-4e31-8385-1334e5b105a0">
+  <link rel="stylesheet" href="/wps/wcm/connect/4abb1197-5b7f-4d0d-a31f-50539da72c8f/main-menu.css?MOD=AJPERES&amp;ContentCache=NONE&amp;CACHE=NONE&amp;CACHEID=4abb1197-5b7f-4d0d-a31f-50539da72c8f">
+  <link rel="stylesheet" href="/wps/wcm/connect/e9bc9573-0c71-4904-bb7b-050e83cd7845/swiper.min.css?MOD=AJPERES&amp;ContentCache=NONE&amp;CACHE=NONE&amp;CACHEID=e9bc9573-0c71-4904-bb7b-050e83cd7845">
+  <link rel="stylesheet" href="/wps/wcm/connect/0c214090-f992-4ca4-bc99-ffe672bd3277/vars.css?MOD=AJPERES&amp;ContentCache=NONE&amp;CACHE=NONE&amp;CACHEID=0c214090-f992-4ca4-bc99-ffe672bd3277">
+  <link rel="stylesheet" href="/wps/wcm/connect/6e9cb08a-951d-46ca-90e2-c3f602e535b9/component.css?MOD=AJPERES&amp;ContentCache=NONE&amp;CACHE=NONE&amp;CACHEID=6e9cb08a-951d-46ca-90e2-c3f602e535b9">
+  <link rel="stylesheet" href="/wps/wcm/connect/aa9dd27e-a3e1-4631-b940-d535905f5f61/menu-top.css?MOD=AJPERES&amp;ContentCache=NONE&amp;CACHE=NONE&amp;CACHEID=aa9dd27e-a3e1-4631-b940-d535905f5f61">
+  <link rel="stylesheet" href="/wps/wcm/connect/c1924643-51d9-418c-bf41-3046eec71ecf/breadcrumbs.css?MOD=AJPERES&amp;ContentCache=NONE&amp;CACHE=NONE&amp;CACHEID=c1924643-51d9-418c-bf41-3046eec71ecf">
+  <link rel="stylesheet" href="/wps/wcm/connect/04a5eec5-d11f-4c4a-ab25-34eaf3753823/footer.css?MOD=AJPERES&amp;ContentCache=NONE&amp;CACHE=NONE&amp;CACHEID=04a5eec5-d11f-4c4a-ab25-34eaf3753823">
+<!--   <link rel="stylesheet" href="/wps/wcm/connect/d6c08801-8110-4215-9dcc-9946e94d49f0/bootstrap.min.css?MOD=AJPERES&ContentCache=NONE&CACHE=NONE&CACHEID=d6c08801-8110-4215-9dcc-9946e94d49f0"> -->
+
+  <!-- Styles Modulos -->
+<!--   <link rel="stylesheet" href="/wps/wcm/connect/ca374c49-cdcc-4023-8a4d-4d33ab0b62af/slide.css?MOD=AJPERES&ContentCache=NONE&CACHE=NONE&CACHEID=ca374c49-cdcc-4023-8a4d-4d33ab0b62af"> -->
+<!--   <link rel="stylesheet" href="/wps/wcm/connect/bf40fc81-6bd6-4d17-8831-8bd5e463d41e/featured.css?MOD=AJPERES&ContentCache=NONE&CACHE=NONE&CACHEID=bf40fc81-6bd6-4d17-8831-8bd5e463d41e"> -->
+<!--   <link rel="stylesheet" href="/wps/wcm/connect/63bd696b-d31d-4cae-950d-73ad3d94a502/need.css?MOD=AJPERES&ContentCache=NONE&CACHE=NONE&CACHEID=63bd696b-d31d-4cae-950d-73ad3d94a502"> -->
+<!--   <link rel="stylesheet" href="/wps/wcm/connect/81aec938-e533-4f54-bfa6-086e1998356e/icon.css?MOD=AJPERES&ContentCache=NONE&CACHE=NONE&CACHEID=81aec938-e533-4f54-bfa6-086e1998356e"> -->
+<!--   <link rel="stylesheet" href="/wps/wcm/connect/44333ab1-e8b0-4805-a556-61fe8bb68ccb/extra.css?MOD=AJPERES&ContentCache=NONE&CACHE=NONE&CACHEID=44333ab1-e8b0-4805-a556-61fe8bb68ccb"> -->
+<!--   <link rel="stylesheet" href="/wps/wcm/connect/31068347-1132-499c-ac53-be77f3b41478/services.css?MOD=AJPERES&ContentCache=NONE&CACHE=NONE&CACHEID=31068347-1132-499c-ac53-be77f3b41478"> -->
+  <link rel="stylesheet" href="/wps/wcm/connect/bd1e8927-180e-41d8-894e-764bade66e1f/modules.css?MOD=AJPERES&amp;ContentCache=NONE&amp;CACHE=NONE&amp;CACHEID=bd1e8927-180e-41d8-894e-764bade66e1f">
+
+  
+<!-- <link rel="stylesheet" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/bancolombia.css" type="text/css"> -->
+<!-- <link rel="stylesheet" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/style.css" type="text/css"> -->
+<!-- <link rel="stylesheet" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/modules/navegacion-min.css" type="text/css"> -->
+
+
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/menu.js"></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/jquery-1.11.2.ui.min.js"></script><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=29373698"></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/angular.js"></script>
+<script type="text/javascript" src="/wps/wcm/connect/e6a8286f-5782-420b-adf6-864eeddb1b9e/menu-active.js?MOD=AJPERES"></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/ui-bootstrap-0.12.0.tpls.min.js"></script>
+
+<!-- <link rel="stylesheet" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/arimo.css" type="text/css" async > -->
+<!-- <link rel="stylesheet" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/modules/modules.css" type="text/css"> -->
+<!-- <link rel="stylesheet" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/animate.css" type="text/css"> -->
+<!-- <link rel="stylesheet" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/menu-negocios-especializados.css" type="text/css"> -->
+<!-- <link rel="stylesheet" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/datepicker/css/datepicker-min.css" type="text/css" async > -->
+<!-- <link rel="stylesheet" href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/css/styles/datepicker/css/theme-min.css" type="text/css" async > -->
+
+  
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modules/navegacion.js"></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modules/mobile-detect.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modules/slide-min.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modules/modules.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modules/jquery.basictable.min.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modules/wow.min.js" defer=""></script>
+
+
+<script type="text/javascript">
+function SVPersonas(){
+    localStorage.setItem("SVPersonas", "Si");
+}
+</script>
+
+<script type="text/javascript">
+                  function Onclick(){
+                         localStorage.setItem("Onclick", 'UserOnclick');
+                  } 
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js"></script>
+<!-- Anti-flicker snippet (recommended)  -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-W95WRK':true});</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-W95WRK');
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-W95WRK');</script>
+<!-- End Google Tag Manager -->
+
+<script async="" src="https://static.hotjar.com/c/hotjar-373418.js?sv=6"></script><script async="" src="https://script.hotjar.com/modules.4511dadc364f0ee7084d.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><script charset="UTF-8" id="_lpTagScriptId_0" src="https://lptag.liveperson.net/lptag/api/account/29373698/configuration/applications/taglets/.jsonp?v=2.0&amp;df=undefined&amp;b=undefined"></script></head>
+<body onload="loadMenu()" class="toolbar-closed" style="">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W95WRK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	<!-- site toolbar -->
+	<!-- site toolbar -->
+	
+	<a href="#maincontent" class="sr-only sr-only-focusable">Skip to main content</a>
+	<div id="barra-navegacion">
+<!-- 		<div class="sidebar visible-xs fade out"> -->
+<!-- 			 renders the collapsed menu --> 
+<!-- 			<a rel="dynamic-content" -->
+<!-- 				href="dyn-cs:id:bancolombiapymes_collapsedMenu"></a> -->
+<!-- 		</div> -->
+		<div class="top-nav">
+			<!-- renders the level 1 navigation -->
+			
+
+<style>.container-fluid{position:relative}.navegacion .top-nav .top-menu>.container-fluid>.row{padding:0 15px 40px 15px;width:100%}</style>
+<!-- NAVEGACION NIVEL 1 -->
+<div class="top-nav">
+	<div class="top-ribbon hidden-xs">
+		<div class="barra"></div>
+		<div id="menu-1nivel" class="container">
+			<div class="row">
+				<ul>
+					<li id="linkPersonas"><span class="flecha"></span> <a href="//www.grupobancolombia.com/wps/portal/personas/" onclick="changeActive('linkPersonas'); changeDesActive('linkEmpresas'); changeDesActive('linkAcercaDe'); changeDesActive('linkPymes');">Personas </a></li>
+					<li id="linkPymes" class="active"><span class="flecha"></span> <a href="//www.grupobancolombia.com/wps/portal/negocios-pymes/" onclick="changeDesActive('linkPersonas'); changeDesActive('linkEmpresas'); changeDesActive('linkAcercaDe'); changeActive('linkPymes');">Negocios </a></li>
+					<li id="linkEmpresas"><span class="flecha"></span><a href="//www.grupobancolombia.com/wps/portal/empresas/" onclick="changeActive('linkEmpresas'); changeDesActive('linkPersonas'); changeDesActive('linkAcercaDe'); changeDesActive('linkPymes');">Empresas </a></li>
+					<li id="linkAcercaDe"><span class="flecha"></span><a href="//www.grupobancolombia.com/wps/portal/acerca-de/" onclick="changeActive('linkAcercaDe'); changeDesActive('linkPersonas'); changeDesActive('linkEmpresas'); changeDesActive('linkPymes');"><span>Acerca de Nosotros</span></a></li>
+					<li id="menu-filiales"><a style="cursor: pointer;">Negocios Especializados</a></li>
+					<li id="linkPersonas"><span class="flecha"></span> <a href="//www.grupobancolombia.com/tu360" onclick="changeActive('linkPersonas'); changeDesActive('linkEmpresas'); changeDesActive('linkAcercaDe'); changeDesActive('linkPymes');">TU360</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="top-menu hidden-xs">
+		<div class="container-fluid">
+			<div class="row" style="position: absolute; margin-top: -1000px;">
+				<div class="col-md-6">
+					<h2>Negocios en Colombia</h2>
+					<ul class="check-list">
+						<li>
+							<a href="//bancainversion.grupobancolombia.com">Banca de Inversión Bancolombia</a>
+						</li>
+						<li>
+							<a href="//fiduciaria.grupobancolombia.com">Fiduciaria Bancolombia</a>
+						</li>
+						<li>
+							<a href="//leasing.grupobancolombia.com">Leasing Bancolombia</a>
+						</li>
+						<li>
+							<a href="//renting.rentingcolombia.com" target="_blank">Renting Colombia</a>
+						</li>
+						<li>
+							<a href="//valores.grupobancolombia.com">Valores Bancolombia</a>
+						</li>
+						<li>
+							<a href="//factoring.grupobancolombia.com">Factoring Bancolombia</a>
+						</li>
+						<li>
+							<a href="//assetmanagement.grupobancolombia.com">Asset Management</a>
+						</li>
+						<li>
+							<a href="//sufi.grupobancolombia.com">Sufi</a>
+						</li>
+						<li>
+							<a href="http://www.tuya.com.co">Tuya</a>
+						</li>
+					</ul>
+				</div>
+				<div class="col-md-6">
+					<h2>Entidades en el exterior</h2>
+					<ul class="check-list">
+						<li>
+							<a href="//valoresbanistmo.grupobancolombia.com">Valores Banistmo</a>
+						</li>						
+						<li>
+							<a href="//sucursalpanama.grupobancolombia.com">Sucursal Panamá</a>
+						</li>
+						<li>
+							<a href="//panama.grupobancolombia.com">Bancolombia Panamá</a>
+						</li>
+						<li>
+							<a href="//cayman.grupobancolombia.com">Bancolombia Cayman</a>
+						</li>
+						<li>
+							<a href="//puertorico.grupobancolombia.com">Bancolombia Puerto Rico</a>
+						</li>
+						<li>
+							<a href="https://www.banistmo.com/wps/portal/banistmo/personas">Banistmo</a>
+						</li>
+						<li>
+							<a href="https://www.bancoagricola.com">Banco Agrícola</a>
+						</li>
+						<li>
+							<a href="http://www.bam.com.gt">BAM (Banco Agromercantil de Guatemala)</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+		<div>
+			<!-- renders the level 2 navigation -->
+			<!---->
+
+<!-- NAVEGACION NIVEL 2	PERSONAS -->
+
+<div class="navbar" id="personasNivel2" style="display: none">
+	<div id="main-menu" role="navigation" class="navbar-default">
+<!-- 		<div class="navbar-header"> -->
+<!-- 			<a id="responsive-menu-personas" style="cursor: pointer;" class="navbar-toggle collapsed"> -->
+<!-- 				<span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span> -->
+<!-- 			</a> -->
+<!-- 			<a href="//www.grupobancolombia.com/wps/portal/personas/" class="navbar-brand visible-xs visible-md hidden-lg hidden-sm"> <img id="logoFilial" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKoAAABGCAYAAABc8A97AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTExIDc5LjE1ODMyNSwgMjAxNS8wOS8xMC0wMToxMDoyMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDphYmIyMzYxZi01NjhmLTRkMGQtYWVkZS00ZTU2NWEwZTcyNWIiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6ODJDQTE4MjBCOTEzMTFFNTk0MEJFQ0EyMDNEMzA1N0UiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ODJDQTE4MUZCOTEzMTFFNTk0MEJFQ0EyMDNEMzA1N0UiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpkNWVkMjc0ZS1iMmFkLTRlZWQtOTZlNy02MTRkYzMxZGIyMzciIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6YWJiMjM2MWYtNTY4Zi00ZDBkLWFlZGUtNGU1NjVhMGU3MjViIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+07ShpAAAEfpJREFUeNrsXQd4FNUWPpNeNqG3hCIQlCKCgAKCmMWGFFEQkCZFUBH1gY8gis+Kou4DfIqCXVARBJFiRXCNoFQBld5bKKEnJCSEsO+cmTPJzc3M7iZsJH7c//tOZnf2zsy9d/457d470TweDygolHYEqS5QUERVUFBEVVBEVVBQRFVQUERVUERVUFBEVVBQRFVQRFVQUERVUFBEVVBEVVBQRFW4LBFCfzRNUz2hUCx4PB7iUAJKQ5S6KDVR4lGqolRgiUSJkg7NQDmEsgllHHJwtc359a1GHxRRFYpAzAa4aYNyPQsRNJR+y87JhX1H0mD/0XRIPZkJx9LOwvHTZ+F0RjbkXvDo27CQYIiKCIHIsFCoWj4abmtRCxrUqkCkbY483Fo8ojpd5VnrHgN30gV1my5LYsbgphvKrSg3k6Yk7mw7cAJWbTkM67YfgU17j+uyPzW9yOePjgiFrdPvh/iKjunIwwH+EdXpog9dUR5Caccq28Q2lClI2NfV7btsSFofN24i54bdx2Dx2r2wZO0++HVDCpxMzwrYdZ7u1wpeHNz2HLkNyMUjVkQNEbRnLP79FKWLzfmuZP9D4fLBE6glqzofnwU7D54qsYtMXfgHjO3XKiwiLIQU5PP2Ub+hST8TSLoWpS/7H01QOqG8hvKTuneXFcIPnThToiQlHEM/dk4yGWzo5TXqZ3PfmT8vROmOJj5HKPcnyreC9n2ECUxm4SjKKJQPUXYzwcugPIznyOTyfdjxTsF9LvxOUeJIclFQHkMZjdIShdT/LCwzXfKVG+PfofzgmPV5C8vtVFwqUSS3uKpqb/QfIeXYmWKdgLxKCpqqV4zRt5XLRUE5RwQ4IkOhjCMcQoKDwIF+arsm1al4eTT1rdD8r7Aj6mDe5qI8KJHUCveg3IRSDaUDSjDK50ykx7jMCJRM/nwbCjnKf6C4UKrrRAag1tdnkproiMSshnV4lUk6BP++AwVzvjfr9XS6OmC5pYpPJYbZQZo2uZezfsjE2Wu8FiTCNaxVARrXqQiNa1eC+jXLQ0J8WZRyEB4aLJXGuDw3DTenUXDrOY/7dgGcr1IFQqotR7IOQrJ+bEXU1rxdhzf+UBEa0hEFrwZzUP5CaVzEjnCgtEB5EoW042SUyihjkYT/YxJPZZKu4M9xKM+AkZd7F6WB4lPJAMlyAkmzqHf7+h1lolaIjYTEpjWgdcM4aN0oDprVqwzoY5ohEEDOXoDslaiKdoMnB0l4joh4AOUgSirrRItrxqEHGttnAl53Jl4/SyZqRd4etElTfY1/26IsQyJ3Fs+rk9WdtFww0UXFO3j8K3x8Pfz7EkoMk/4h1tYnUW7Hcmlcjkj6tE5kp6s+7t+iaFVimIbmv+OI7s1he8pJaNs4Hm5tfgVci8QM0rNFSLgs1FGZ88FzHMmcvQFJuRE1ZUbxMg3Hx4MW26c8p8RmyETNJseZTbmd5ivDWxG780jq4+H08ts8KQVmoiz7tYTf8khqYJXwmTIRiqglB7onRycNd1YymIRe4dkVSKi3wZOJXlfWqmKT0hJEdDw/RLYaKhI1SCJIU9RQlYtw2n1+lqvu5bejNoTOFB4MzQvxzykuBRZoduugjEXZqLuDuScqwenp4EnpAZ7t5cGzrx2G6i/gHXIHlqTm9U+9R5tEvH6CTNQFvKWhsClI1tAAXC+SzTRp4uv8PKZVvret+7ymv9wQzyMGUy3ynSHYoKgVMIJS1D1bjxcunBmH5Gzo2d8BPDuqgOcQxsLpGIpcOFPyFUmfiZU5C3r2STL9kzjyr8a+wWokxjRON1EKqZaflxDNc288xzd87hgvx5TnB4OyB8N431e6qXe6kjnQuwLlDfxOwdQ1nA4jzMdyxxTFAoZPMBLv6EkdjXfysxLRlj4RhHot8np6ashuBhUkqjvpOJKgI2vWGmDkSCcW4zJrOJyjAGgCC2GllIISsUT6vgflX8IDNIAfoOEsYrmHFbcCpk0pm9LRcwS7/vS0v+GKSJHwhgARzUALR90TfjVKI2RkvFmA3I4PZNNPZF0PRh40CYU0GY25kp4/xgR8m9NChB1g5ER3FLi2O4l81oFGUkwP0DYy0d7n8ustanyIhUbDxulm3Z2UwudLZYLTYALtS+c01gQud0hRLGAwlFaJaFGkWTjqvrJDQKs6BbRay0G7Kh236+F8+jOQsSgBTr64FlJ7vQCZX/0ArOw6aZqWmheUXJJpfk5XIhijWoRr+SFRuPRa9QCcnBzvOfLoRfISvcXINqChQGRrQ4IccOHkachesQ6yl/8O2SvXo6xDTyNdsvwxUCNlFWjRUc8hL58vPClFQQHgZ4hK7FvkozSMm6PagRaF+ockAmNdLQTO7zsI2YtWQ9bS8ZC9bDWc27jN8D29gIibMfsbcAzs0Q+ECSqKqAoFiRreqC8EV0Tj6yNGDcX42tEZNEcnJKcTiRkBuYePwtkvl0HWz09B1uJlcH5vSrEqceaj2UTUBNSmFEgvV0S1d00oC5HAfvLmUl7XCDCGmg9jXQ/7UT6Sg9T2HDfQ5KGjeUSlFHXUTRgNfFn4WAx2tNjeSNC7jMAHkbNtF6S98RJk/fQb5GzeEZAmZS1dBbkHj0BwXJX+l5qolPu8mz/vLmU3/hP8eycKzc+l+QYjSilBaU0SZcZpwk8Y9+c8P46keRUP8ud6HLjcq1twTdtBfqoW0726xyRqaB3siZ40rInk1EfIKdqitCNNXOp7uH1vyE05HNi2oXuQMWshxI4c0tXM7IRwo2nCRwQXi+KGm6BJJ5u5E+bg03f+oiti5D7nlVId1e8foveJqJ2LcVwj6fuV0vcJENt7khbWAJkbbKSNQJ8cMh+MOcs/0mQRJPR9RFTIySmRxp0/oJM/TvZRW/o4jpLsNKl1FJK6s18mRqG04iswBnVMLCgQF2na63r0H9GUytAIIeWL5uF+eUEU5b890T07a2mTA5d3Da5cARwD7oEyY3RF+lNxg6nmKB+h3KHu9z8U7qRPUdnQPAparEe56w8KBfGaNgeMqZv2gb6mpSChk6MH3JN40UQNCoLIOxIhZnAviOxyC2ihIWS1Z4tulxVRp7IfQyjDmnQ85A8OdMCGxucl5RX+iWSdi3/nBuBMM8JbXJMY2rAe5GzaXuSDQ+vVBsegHroGxcCJdm3hB2e6mez3lkfNxoaYi2Ro+xoS8xowlpiYqA00UuR0VWE/ieaqNmC/iaJKMhM72Dy8j+c7KUXUTtbOO/G3L3DfDfiZlrfQtL5oMEafKKh5F3/3WAQSdTgAuJH9GBqypZG0pVj+OaksDb8OQrkF8mdxHWCz8n6R3Rini/x3DH315TtXcn0paqaphx/j+dZYHENRSDu9rDuJ+rMRGPMVqN00D4JG8t7G32YI1xjG16FpjGeMiBzG8eift/pRX8RzvfZh+Qzpd5pT0YeDRZp59gaWWYb7HRyYOdnVo76ifTQ7ZD/QVEtj7vAu4Wyk9SZH33tn2KlnJvinPGOiIapnZ0o/QUQbyrdq1LZZRFAkp+2UUX9NvxyZn+YtLRcZYFGepgrSWzNuBxq3d7raCQ1cKvjEtH7qCj6PHCi04XOMFjqZhtCeBWPSdLBFkEDXfU4oPwyMpS/RUtl6fEOexDL3Y91m+knS6zmgSJB+oTbQDLHhWOY9nWTupFw+hlYhDM1L/zhdRLRpUsBaTW8vWSpj1cL3kD+TTKxzFyxzrc3D5eG1bP/hfgCdiE7XDN2EupPMe0bn7S8cR2vhlrEimmrT8lqsjB7F89F6uu/Y/J9CjfdtdI9Od3klqqZBRPsbdHJGd+sAWpQ+sS5Zf7CR7Hgen+O2QX5qEHEJNWnKjfzZn7F26vw3he8Rwue2FiQV8W+8fpzwfTwTNdim/H6h3o+AMT8h2sv5o3TN7XS19qMfGrNWS/BRcmiBhyWfNIRKfHPCbI6lB/BDC5KKD/DjNr8N4H4Wr0fXGYjyHdbfl1Lyx5WL1GMUpytcNP+h9etCWOP6lqa93LhRUH3Pb1B18Qxw9Lt7D5KURpvqIDkTaV2UPyS1I2pZXcs5XTQHtBffnCb8Ww4Yi/8uCI1bzJ2RwB1Tkf3aTOGct/PyERkmQTaxOerCn8X6tRW02Wjp+E/ZBSChDviRy5IbIs7+usA50W6cQ9wqWZX/+iAp1eNzKPhCjh+5zvdy6kbEE+xyWKWGwvkBH8JBqTjPIVaIyKdywPOydI5bbGpp5qUPczpR7ucBPrhgHjeK73cUm/527JqYqCI9SLRq+Xi5V5+k8XkIinVAzNDeUO3XuRC/7WcoM/bRjJCacdPYghFBaQy/yLnzEJsn06pRO3VCkj+TD/IhJ0vljqOQ33kHExhYA5LPs83ivLt0s2f6xU4XacCZklkEjgDF2TNj8ZiXbdr1FPD7kBiDCizBdrq+5AfC1D434L7aWMauA7tL+Uc6vofgP8/C4+cKZKFr9+SHQ0a6/vCZrpDxAMvDQC/g78/y70u4H+MErWoHcjse1nPdTtd97GKY6G8V4QtYh3K1xaubluK5xrGmF2OUZDb/lFN9AKP2z2ue+DNMCwmmKN7DCo76fI5m+KEXlxgoQtm6umkSTbE7ydsykL0WZtYK/xGCNyt/WGON1kl6GFxeggnRVdla6D0BNP/W6EQR3lYhdJW+j7UI8mQnzS43PUkKSHZZaLaXhLp6pDJ2/XhAD0jNARmjzTuk1KK3TECul/eLyfcyVkpV0UPaQAsLHYEkfYg1Z3s27QFZEmClUTezcx3OWrANfwYOjn5AMjQvQFKnqyZHqLTeviGbB38CtQsWZtOK/LWlzlnq5d0DCZxWM/GLFw0iIs5LPUUSp+K1t/pxvqpeEu7esNBCAeT60ZdfWBy3UfCpHRzZ+/LFHezSdODoP16KKywVHBJyl40FgZIi6iJs8Aih4nHshzTjPTSmRi+gmMEOOj39IyVT6y+OFEqfWKOihXvhb9nTNuUy/dT48jmP22ikTOwPOfCwgq+ZG7uKeS83WeyT38UT7IOkA8GYsFK2tKV+fZt+d9JBjkZFmM70JxzghAqd9Rbv+8EiYgQ/tKc/9Yz0UlbWPnbrtWKl70f9PGdZm5tcRtpzzKY/fZnC4r4mz+oBCi9gvfJTVFb1Hw7GqGNZIaMzTXdzjOzJJYW/edS0QsRxulpyxGtiZIFXUjpddb10WlFxQvrezEtZmSBNbMrJKan1PkhQKS+4oyXlxjIZq4fXxB+lQBFdLXze4IWk0VJ2gXLFg/NcCadrAFzi9Wn+BlN9pO9/cerExNkC/onxCstuAaznTslU0xtSunoxnacKBDVO13XSjakhtclcs2UHebRpmEUAN7qQr3kp4XQ1lYi6yEvplpKFmSj5u/cFUOkETKNWx0a2YhNUlVNVoubM4HTKGMkUJ5Jh4xdYfCxooIuHkW75XiL/TH4/VTI7+xQ0VMCyY3D/fCHFRimtBbhvLAc8NMIzTroxr+aNJNkHQOL0v2d4wvI8bjv56O3FGuP5Vl6ye2kM0c4Sfsthl8wOsjvTUX9wjTaOl9rmy/X624jaHYSF/xZ4TJ9P6nTJr9FZgvtSwMh7BrMJrhjAupJpulOoM3XiEywmzH9Y8ApnIcKECNwuh0hEn+zj2vPYlDcRLNEY6WEVA5j7L4EOncX9T6gh/TYG79keL8fK9/JFHtmjDEA0xxLnoPArnUqd6TfSMjTi5E76ME+jGWvrQdBc1ZmkaRam8OL+VZA76Xf8+wBrBztU47JbmKi+AhMas+7qQ5sC5xfv9iNi36u7RPYDByV9L2tIJKV2PYv1meijfZssXJUqTFLK4w73M0VW4ho1WdgXwZLNQcxeMJY2L8AGnS0QvTpdN4IxVt+ZTSnNkqI3/z3PxE22iPDXCD6k1eSKM9JxB4Rr0jjzSja1TiHHl8p+87dC2bn6MLAxokX53zqcnaDo/lddw7qTvrbRsIVTSUQ+w++jh6UHGDnGaHaF6MXCNH9zSoE+yg9ivKV77NtrHeiZWYN93Pc0tEx55nJg5I+z+Dca4n3TIue7R7qeeQ968X3rzxaI2vGLbsncSb9g2/tC/sjgnr+bqJrHx/JVBYXSAPWf+xQUURUUFFEVFFEVFBRRFRQUURUUURUUFFEVFBRRFRRRFRQUURUUFFEVFFEVFBRRFS5P/F+AAQDY/nZxwjDtvwAAAABJRU5ErkJggg==" width="170" height="40" alt="" title="" class="BancolombiaLogo"> -->
+<!-- 			</a> -->
+<!-- 		</div> -->
+		<div class="row nopadding">	
+			<div class="container">		
+					<div class="col-md-5">
+				        <ul class="menuPersonas">
+				          <li class="itemNone"><a href="//www.grupobancolombia.com/wps/portal/negocios-pymes/"><img src="/wps/wcm/connect/362f1e4b-cea9-42c3-8d9d-f12eb7217e45/logo-bancolombia-black.svg?MOD=AJPERES" alt="Negocios" title="Negocios"></a></li>
+<!-- 				          <li><h3>Negocios Pyme</h3></li> -->
+				        </ul>
+			      	</div>
+			      	<div class="searchHeaderRwd visible-xs visible-sm hidden-md hidden-lg">
+				        <img src="data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QN1aHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjYtYzEzMiA3OS4xNTkyODQsIDIwMTYvMDQvMTktMTM6MTM6NDAgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9InhtcC5kaWQ6RjY3REVBNDc5ODE4RTMxMThEQjhGMkEzRjNCMDZDQTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RTk1MjFGN0I2QTA1MTFFNjlFMjJBOUREQzdFNThBQzMiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RTk1MjFGN0E2QTA1MTFFNjlFMjJBOUREQzdFNThBQzMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDoxNEE5NzE4NjE1M0YxMUU2ODE2NkJDMjc0MzFDOTIyMSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDoxNEE5NzE4NzE1M0YxMUU2ODE2NkJDMjc0MzFDOTIyMSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pv/uAA5BZG9iZQBkwAAAAAH/2wCEAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQECAgICAgICAgICAgMDAwMDAwMDAwMBAQEBAQEBAgEBAgICAQICAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA//AABEIABoAHAMBEQACEQEDEQH/xAByAAEAAgMBAAAAAAAAAAAAAAAHBQYAAgkKAQEAAAAAAAAAAAAAAAAAAAAAEAAABgECAwUECQUAAAAAAAABAgMEBQYREgcAIRQxIjITFUFRYSOBkaFiMxY2FwhDRoa3SBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A9rsRGyG+riUn5iXlo/alCXkIar1aBk3kKW5JRDlSOkbHZpeMWQk14Z9JMlE2TRJQifkJgKmdQcBYXX8d9q0EjK1yEeUmZRATNLDTJqWhJ9q4AMEXK5QenRfnEB0+W6IuQ4HwIBqHISe2dnsXqll26vTlGQtdPSj3zSfbI9Klb6hNC9ThZ3oy4IylSKxqzZ8imHllcI6iCIH5AyezTk2c4zy1asavdjw8ACfx6eJRlMDbV8cra07YvHlYnI85QSVUapP3q0FNop5ydjPxB010lf6ggf3cA8mHGk3sHPIeWB8WoTZ7pe79IiHZwAHSX6F33lu93hlUndarlUhdtm0ogYp2szPt5h/YrCdoqUTFO3hesbIDgR+cZTnwD73MZ+Pwzn8PV9X2cAb3Ha+uXN4yml1Zqu2eOQO1j7dVZVWDsjdooYihmR3rUqzd7HqGL3knKayYc8AGo2QqbjZySlEgZW3dzcqzwpgMCkIV1X6y3kW+nB2Uk/p9bhpl82FER1EK4IZfnqEQzwEM/o8xtA6WtW0USo9qqhklrhtQzwVN2kigRFey0MpwFNtaUGqepVoZQycoQoE7q5U8gh/utQ/yL+43rzf8teTjqdCnUdfnR6T6VjqvXuo+R0WOp8/5WNfLgE7gM4DU3YPj8BvD2+zs+/7uA5x/9V/2z+vv8L/Tf+1uA//Z" class="center-block" alt="Buscar">
+				    </div>
+			      <div class="buttonHeader col-md-6 hidden-xs hidden-sm visible-md visible-lg">
+				  	<ul class="buttonHeader hidden-xs hidden-sm visible-md visible-lg">
+				        <div class="btnSecundario">
+				          <a href="//www.grupobancolombia.com/wps/portal/empresas/necesidades/documentos/">
+				          <span>Solicitud de documentos</span>
+				          <img src="/wps/wcm/connect/99efdcae-2d00-429e-8535-4e11e6d4d9a6/document.png?MOD=AJPERES">
+				          </a>
+				        </div>
+			        	<div class="btnPrincipal" id="transacciones">Transacciones<img src="/wps/wcm/connect/021db6a9-90c3-4d86-8e50-6f9adb94dc13/union.svg?MOD=AJPERES" alt="Sucursal virtual"></div>
+			        	<div class="searchHeader hidden-xs hidden-sm visible-md visible-lg">
+				          <img src="/wps/wcm/connect/b61bdc23-367d-42c9-b587-017d656771ca/search.svg?MOD=AJPERES" class="center-block" alt="Buscar">
+				        </div>				        
+					</ul>
+					
+					
+					<div id="menu-transacciones" class="menu-transacciones">
+			            <div class="cerrar">
+			              <a style="cursor: pointer;">Cerrar <span>x</span></a>
+			            </div>
+			            <div class="row">
+			              <ul>
+							<li><a href="https://sucursalvirtualpyme.bancolombia.com" target="_blank" class="ng-binding">Sucursal Virtual Pymes</a></li>
+							<li><a href="https://sucursalpersonas.transaccionesbancolombia.com/cb/pages/jsp-ns/login-mada.jsp" target="_blank" class="ng-binding" onclick="SVPersonas()">Sucursal Virtual Personas  </a></li>
+			                <li><a href="https://sucursalempresas.transaccionesbancolombia.com/SVE/control/BoleTransactional.bancolombia" target="_blank" class="ng-binding" onclick="SVEmpresas()">Sucursal Virtual Empresas</a></li>
+							<li><a href="//www.grupobancolombia.com/wps/portal/empresas/necesidades/documentos/" target="_self" class="ng-binding">Solicitud de documentos</a></li>
+			              </ul>
+			            </div>
+			            <div class="row">
+			              <div class="col-xs-12 conocer"><a href="/wps/portal/empresas/transacciones/">Ver más</a></div>
+			            </div>
+			         </div>
+					
+				</div>
+				<div class="headermenuMobile">
+				    <button class="action action--open" aria-label="Open Menu"><span class="icon icon--menu"></span></button>
+				    <div class="logoMob"><a href="/wps/portal/negocios-pymes/">
+				    <img src="/wps/wcm/connect/362f1e4b-cea9-42c3-8d9d-f12eb7217e45/logo-bancolombia-black.svg?MOD=AJPERES" alt="Negocios" title="Negocios"></a>
+				    </div>
+				</div>
+			</div>			  
+		</div>
+	</div>
+	
+	<section id="menu-top" class="visible-lg visible-md hidden-sm hidden-xs">
+	    <div class="container">
+		      <div class="row nopadding">
+		        <div class="col-md-12">
+		          	<ul><li><a href="/wps/portal/negocios-pymes/">Inicio</a></li>
+			            <li><a href="/wps/portal/negocios-pymes/actualizate/">Actualízate</a></li>
+			            <li><a href="/wps/portal/negocios-pymes/productos-financieros/">Productos financieros</a></li>
+			            <li><a href="/wps/portal/negocios-pymes/herramientas/">Herramientas</a></li>
+			            <li><a href="/wps/portal/negocios-pymes/beneficios/">Beneficios</a></li>
+			            <li style="display: none;"><a href="/wps/portal/negocios-pymes/eventos/">Eventos</a></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Formación<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/wps/portal/negocios-pymes/eventos/">Eventos</a></li><li><a href="/wps/portal/negocios-pymes/formacion/">Social Selling</a></li><li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Sectores<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/wps/portal/negocios-pymes/sectores/agroindustria/">Agroindustria</a></li><li><a href="/wps/portal/negocios/sectores/comercios">Comercios</a></li></ul></li><li><a href="/wps/portal/negocios-pymes/comercio-internacional">Comercio Internacional</a></li>
+		          	</ul>
+		      	</div>
+	  		</div>
+		</div>
+	</section>
+
+<div class="searchRwd">
+  <div class="container">
+    <div class="row">
+      <form action="/wps/portal/negocios-pymes/buscador">
+        <div class="col-sm-8 col-xs-8">
+          <input type="search" placeholder="Busca lo que tú necesitas" name="termino" id="terminoBusqueda2" class="ui-autocomplete-input" autocomplete="off">
+        </div>
+        <div class="col-sm-4 col-xs-4">
+          <div class="row">
+            <input type="submit" value="Buscar" class="btnPrincipal">
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="menuMobile">
+	  <!-- Blueprint header -->
+	
+	
+	  <nav id="ml-menu" class="menu"><nav class="menu__breadcrumbs"><a>Inicio</a></nav>
+		<button class="action action--close" aria-label="Close Menu"><span class="icon icon--cross"></span></button>
+	    <div class="menu__wrap">
+	      <!-- presonas-->
+	      <ul data-menu="main" class="menu__level menu__level--current"><li class="menu__item" style="display: none;"><a class="menu__link" href="/wps/portal/negocios-pymes/">Inicio</a></li>
+	        <li class="menu__item"><a class="menu__link" href="https://www.grupobancolombia.com/wps/portal/negocios-pymes/actualizate/">Actualízate</a></li>
+	        <li class="menu__item"><a class="menu__link" href="https://www.grupobancolombia.com/wps/portal/negocios-pymes/productos-financieros/">Productos financieros</a></li>
+	        <li class="menu__item"><a class="menu__link" href="https://www.grupobancolombia.com/wps/portal/negocios-pymes/herramientas/">Herramientas</a></li>
+	        <li class="menu__item"><a class="menu__link" href="https://www.grupobancolombia.com/wps/portal/negocios-pymes/beneficios/">Beneficios</a>
+	        </li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Formación<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/eventos">Eventos</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios-pymes/formacion">Social Selling</a></li><li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li></ul></li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sectores<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/sectores/agroindustria">Agroindustria</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios/sectores/comercios">Comercios</a></li></ul></li><li class="menu__item"><a class="menu__link" href="/wps/portal/negocios-pymes/comercio-internacional">Comercio Internacional</a></li><li class="menu__item" style="display: none;"><a class="menu__link" href="https://www.grupobancolombia.com/wps/portal/negocios-pymes/eventos/">Eventos</a></li>
+	      
+			<li class="menu__item">
+								<a class="menu__link" href="//www.grupobancolombia.com/wps/portal/empresas/necesidades/documentos/">
+								<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAdCAYAAABbjRdIAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA5BJREFUeNqsVl1IU2EYfuemaemaA7MLhdkkkCSPRN10sUnDKchygdRVzquoLqZZRBfhLAwkxvSmops5g8guarsoaBRuRSoUciylAqeGFf7hX7Ola633+zb1nLMfz9IXvo9zvr/ne96/75VAKqKzqrAnTcsZZWl72Tyx1XaJSBAT9mZsTJJVBMyBrQOBF1MH01kJA3uUjVghQE0I2CWcSEsCZMG+N0UgIgp6QZ3VLo6ZzmrDvhG2L13IsGH9RxoHqJbqfWeEgQN6CYy5PbHMdFaigvGoKjb1kr0LtIcLgSnOgzJ1Hiz6V+nYkG+Gt12Daxpuv4CJ6WUhaDkyZGWCwUYhkO08+ogkDN6hSehyD+NBSwlpqPL3gvnUEWi66xFOtWAzCsHMMQfsl4PR4hSlM3IRBpkT1oQ9R2pJjMoEtlLE+HFUZeubGfU+2lS586ApCYFC+hkYVUZkcQDjWzoCT683Q8VVt/CoWhnPmHHkK+rffrkawO8BrdqHt3lGv3kyxf/VFpahSuVC22m4YGXcGVPlIbCdRapr9wGWUI17MFb9In1wwQEm/R2wdPfz/EwmCMZNxyBAU1XinTxbC3/n8iA0kwGyY+eAHZ2NWSJLaOx5ZeJEmKGihwfZIAQ/ZsOfsUwI9r+H8PIXOr370giwPllSMF7W9nySAlOCh65Fh7MQOrceAj3fYe31PD08kaw+doH5SltMCHDBhrgTrj4fNJ6wUTB27jg4Xq1APdqxoF23pUZD335QjxUqiwtGr6HICkR+MIiLLsqJMdCr3mwsar+BMZ4+Bv6OAghNZ/ATrTwHMusMMF1jgNYH/UIwLy9dKQ03x33XbtEs7xwppbHU6taDx6eOeOjRd2A//Yh+/3qYTxs1ob4CfldXwfOcQuh8Moj2mo337BTxwMZ7lRYEaOFxX1CCIjOAoJXQUummzMMrUvh5rwbSNXUwcLAcugcmwdk3KswaXGnF3GjhgYVZmoS3fL9Y/wVwfKgD59vReEk3Livyess4QCYxQIRpeRtR66DYCDSulwncl7pezM4m18lU3rMGBPLwygJkxQgqprhCHMU5XCq2DjEK65C0jSdAzDV7zogrBSKPpVN0uopnK5vBRb3R6ysGC3qnoHYk6upMVj9KUvFCrpokDOSmWpCkbcRBRM9ixfM/1Y+E4/rkiSElnCmBwYkNvAQIWU1sC4wDqo3WIt6oLYjK2J2o6/4JMADacztHPjOuggAAAABJRU5ErkJggg==">
+								<span>Solicitud de documentos</span>
+								</a>								
+			</li>	
+							
+			<li class="menu__item">					
+								<span class="menu__link expandible">Transacciones</span>
+																	
+								<ul style="display: none;">	
+												<li class="menu__item" style="display: none;"><a class="menu__link" href="https://sucursalvirtualpyme.bancolombia.com" target="_blank">Sucursal Virtual Pymes</a></li>
+												<li class="menu__item"><a class="menu__link" href="https://sucursalpersonas.transaccionesbancolombia.com/cb/pages/jsp-ns/login-mada.jsp" target="_blank" onclick="SVPersonas()">Sucursal Virtual Personas  </a></li>
+												<li class="menu__item"><a class="menu__link" href="https://sucursalempresas.transaccionesbancolombia.com/SVE/control/BoleTransactional.bancolombia" target="_blank" onclick="SVEmpresas()">Sucursal Virtual Empresas</a></li>
+												<li class="menu__item"><a class="menu__link" href="//www.grupobancolombia.com/wps/portal/empresas/necesidades/documentos/" target="_self">Solicitud de documentos</a></li>
+												<li class="menu__item"><a class="menu__link" style="cursor: pointer;" onclick="MM_openBrWindow('https://facturanet.todo1.com/default_finalBancolombia.asp?pais=CO&amp;ingreso=si','VentanaUnicaFCN','status=yes,scrollbars=yes,resizable=yes,width=1024,height=768')">&nbsp;Facturanet</a>
+												</li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Formación<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/eventos">Eventos</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios-pymes/formacion">Social Selling</a></li><li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li></ul></li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sectores<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/sectores/agroindustria">Agroindustria</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios/sectores/comercios">Comercios</a></li></ul></li><li class="menu__item"><a class="menu__link" href="/wps/portal/negocios-pymes/comercio-internacional">Comercio Internacional</a></li>
+												<li class="menu__item" style="display: none;"><a class="menu__link" href="/wps/portal/empresas/transacciones/">Ver más</a><div></div></li>
+								</ul>								
+																							
+			</li>	
+		  
+		  <li class="menu__item" style="display: none;"><a class="menu__link" href="/wps/portal/negocios-pymes/especiales/wobi/">Wobi</a></li><div class="visible-xs"><div class="row"><div class="title-networks">Síguenos en nuestras redes sociales</div><ul class="networks" dir="ltr" style="margin: 40px auto 0"><li class="facebook" style="display: none;"><a href="https://www.facebook.com/bancolombia" title="Facebook" target="_blank">Facebook</a></li><li class="twitter"><a href="https://twitter.com/Bancolombia" title="Twitter" target="_blank">Twitter</a></li><li class="linkedin"><a href="https://www.linkedin.com/company/22690" title="Linkedin" target="_blank">Linkedin</a></li><li class="instagram"><a href="https://instagram.com/bancolombia/" title="Instagram" target="_blank">Instagram</a></li><li class="youtube" style="display: none;"><a href="https://www.youtube.com/channel/UCsvQ-hst7CZGaMtHcDe5geQ" title="YouTube" target="_blank">YouTube</a><div></div></li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Formación<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/eventos">Eventos</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios-pymes/formacion">Social Selling</a></li><li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li></ul></li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sectores<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/sectores/agroindustria">Agroindustria</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios/sectores/comercios">Comercios</a></li></ul></li><li class="menu__item"><a class="menu__link" href="/wps/portal/negocios-pymes/comercio-internacional">Comercio Internacional</a></li></ul></div></div></ul>
+	
+	      <!-- Submenu 1 -->
+	      <ul data-menu="menu_necesidades" class="menu__level">
+	        <li class="menu__item" style="display: none;"><a class="menu__link" href="#">Administra tu dinero</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Estudio</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Vacaciones</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Carro o moto</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Casa</a></li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Formación<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/eventos">Eventos</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios-pymes/formacion">Social Selling</a></li><li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li></ul></li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sectores<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/sectores/agroindustria">Agroindustria</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios/sectores/comercios">Comercios</a></li></ul></li><li class="menu__item"><a class="menu__link" href="/wps/portal/negocios-pymes/comercio-internacional">Comercio Internacional</a></li>
+	        <li class="menu__item" style="display: none;"><a class="menu__link" href="#">Compra lo que te gusta</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Empieza tu negocio</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Organiza tus crï¿½ditos</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Planes tu retiro</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Bancolombia y los niï¿½os</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Bancolombia y los jï¿½venes</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Bancolombia y la familia</a></li>
+	        <li class="menu__item" style="display: none;"><a class="menu__link" href="#">Colombianos en el exterior</a></li>
+	      </ul>
+	      <!-- Submenu productos y servicios -->
+	      <ul data-menu="menu_productos" class="menu__level">
+	        <li class="menu__item" style="display: none;"><a class="menu__link" data-submenu="menu_cuentas" href="#">Cuentas</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Tarjetas dÃ©bito</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Tarjetas crÃ©dito</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">CrÃ©dito</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Leasing</a></li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Formación<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/eventos">Eventos</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios-pymes/formacion">Social Selling</a></li><li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li></ul></li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sectores<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/sectores/agroindustria">Agroindustria</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios/sectores/comercios">Comercios</a></li></ul></li><li class="menu__item"><a class="menu__link" href="/wps/portal/negocios-pymes/comercio-internacional">Comercio Internacional</a></li>
+	        <li class="menu__item" style="display: none;"><a class="menu__link" href="#">Seguros</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">inversiones</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Giros</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Servicio de pago</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Compra y venta de dolares</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Venta de usados</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Renta de VehÃ­culos</a></li>
+	        <li class="menu__item" style="display: none;"><a class="menu__link" href="#">Canales</a></li>
+	      </ul>
+	      <!-- Submenu cuentas -->
+	      <ul data-menu="menu_cuentas" class="menu__level">
+	        <li class="menu__item" style="display: none;"><a class="menu__link" href="#">Cuenta de ahorro</a></li>
+	        <li class="menu__item"><a class="menu__link" href="#">Cuenta corriente</a></li>
+	        <li class="menu__item" style="display: none;"><a class="menu__link" href="#">Cuenta en el exterior</a></li>
+	      </ul>
+	    </div>
+	  </nav>
+	</div>	
+</div>
+</div>
+
+
+<div class="mobile-container" style="display: none;">
+    <div class="topnav">
+      <div class="searchHeaderRwd visible-xs visible-sm hidden-md hidden-lg">
+          <img src="data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QN1aHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjYtYzEzMiA3OS4xNTkyODQsIDIwMTYvMDQvMTktMTM6MTM6NDAgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9InhtcC5kaWQ6RjY3REVBNDc5ODE4RTMxMThEQjhGMkEzRjNCMDZDQTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RTk1MjFGN0I2QTA1MTFFNjlFMjJBOUREQzdFNThBQzMiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RTk1MjFGN0E2QTA1MTFFNjlFMjJBOUREQzdFNThBQzMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDoxNEE5NzE4NjE1M0YxMUU2ODE2NkJDMjc0MzFDOTIyMSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDoxNEE5NzE4NzE1M0YxMUU2ODE2NkJDMjc0MzFDOTIyMSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pv/uAA5BZG9iZQBkwAAAAAH/2wCEAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQECAgICAgICAgICAgMDAwMDAwMDAwMBAQEBAQEBAgEBAgICAQICAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA//AABEIABoAHAMBEQACEQEDEQH/xAByAAEAAgMBAAAAAAAAAAAAAAAHBQYAAgkKAQEAAAAAAAAAAAAAAAAAAAAAEAAABgECAwUECQUAAAAAAAABAgMEBQYREgcAIRQxIjITFUFRYSOBkaFiMxY2FwhDRoa3SBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A9rsRGyG+riUn5iXlo/alCXkIar1aBk3kKW5JRDlSOkbHZpeMWQk14Z9JMlE2TRJQifkJgKmdQcBYXX8d9q0EjK1yEeUmZRATNLDTJqWhJ9q4AMEXK5QenRfnEB0+W6IuQ4HwIBqHISe2dnsXqll26vTlGQtdPSj3zSfbI9Klb6hNC9ThZ3oy4IylSKxqzZ8imHllcI6iCIH5AyezTk2c4zy1asavdjw8ACfx6eJRlMDbV8cra07YvHlYnI85QSVUapP3q0FNop5ydjPxB010lf6ggf3cA8mHGk3sHPIeWB8WoTZ7pe79IiHZwAHSX6F33lu93hlUndarlUhdtm0ogYp2szPt5h/YrCdoqUTFO3hesbIDgR+cZTnwD73MZ+Pwzn8PV9X2cAb3Ha+uXN4yml1Zqu2eOQO1j7dVZVWDsjdooYihmR3rUqzd7HqGL3knKayYc8AGo2QqbjZySlEgZW3dzcqzwpgMCkIV1X6y3kW+nB2Uk/p9bhpl82FER1EK4IZfnqEQzwEM/o8xtA6WtW0USo9qqhklrhtQzwVN2kigRFey0MpwFNtaUGqepVoZQycoQoE7q5U8gh/utQ/yL+43rzf8teTjqdCnUdfnR6T6VjqvXuo+R0WOp8/5WNfLgE7gM4DU3YPj8BvD2+zs+/7uA5x/9V/2z+vv8L/Tf+1uA//Z" class="center-block" alt="Buscar">
+      </div>
+      <a href="#" class="active"><img src="/wps/wcm/connect/362f1e4b-cea9-42c3-8d9d-f12eb7217e45/logo-bancolombia-black.svg?MOD=AJPERES"></a>
+
+      <div id="mySidenav" class="sidenav">
+        <div class="sidenav-fondo" onclick="closeNav()"></div>
+        <div class="sidenav-interna">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+  <a href="https://www.grupobancolombia.com/" class="logo-menu-mobile"><img src="/wps/wcm/connect/362f1e4b-cea9-42c3-8d9d-f12eb7217e45/logo-bancolombia-black.svg?MOD=AJPERES"></a>
+  
+  <div>
+    <a class="link-nav" href="https://www.grupobancolombia.com/wps/portal/negocios">Inicio</a>
+  </div>
+  <div>
+    <a class="link-nav" href="https://www.grupobancolombia.com/wps/portal/negocios-pymes/actualizate/">Actualízate</a>
+  </div>
+  <div>
+    <a class="link-nav" href="https://www.grupobancolombia.com/wps/portal/negocios-pymes/productos-financieros/">Productos financieros</a>
+  </div>
+  <div>
+    <a class="link-nav" href="https://www.grupobancolombia.com/wps/portal/negocios-pymes/herramientas/">Herramientas</a>
+  </div>
+  <div>
+    <a class="link-nav" href="https://www.grupobancolombia.com/wps/portal/negocios-pymes/beneficios/">Beneficios</a>
+  </div>
+  
+  <div>
+    <a class="link-nav" id="eehsdds" onclick="click_toggle_4(this.id)">Beneficio</a>
+    <ul class="ul-c" style="display: none;">
+      <li><a href="/wps/portal/negocios-pymes/eventos">
+        <h3>Eventos</h3>
+      </a></li>
+
+      <li><a href="/wps/portal/negocios-pymes/formacion">
+        <h3>Social Selling</h3>
+      </a></li>
+
+      <li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">
+        <h3>Incoterms</h3>
+      </a></li>
+    </ul>
+  </div>
+  <div>
+    <a class="link-nav" id="eehewesdds" onclick="click_toggle_4(this.id)">Sectores</a>
+    <ul class="ul-c" style="display: none;">
+      <li><a href="/wps/portal/negocios-pymes/sectores/agroindustria">
+        <h3>Agroindustria</h3>
+      </a></li>
+
+      <li><a href="/wps/portal/negocios/sectores/comercios">
+        <h3>Comercios</h3>
+      </a></li>
+    </ul>
+  </div>
+
+  <div>
+    <a class="link-nav" href="/wps/portal/negocios-pymes/comercio-internacional">Comercio Internacional</a>
+  </div>
+
+  <div>
+    <a class="link-nav" href="//www.grupobancolombia.com/wps/portal/empresas/necesidades/documentos/">Solicitud de documentos</a>
+  </div>
+
+
+  
+  <div>
+    <a class="link-nav" id="eehsdds" onclick="click_toggle_4(this.id)">Transacciones</a>
+    <ul class="ul-c" style="display: none;">
+      <li><a href="https://sucursalpersonas.transaccionesbancolombia.com/cb/pages/jsp-ns/login-mada.jsp?_ga=2.41619106.1807638877.1619186048-457794000.1616791718&amp;_gac=1.50337115.1618925419.Cj0KCQjw9_mDBhCGARIsAN3PaFMuxV3XTBlNjcMbMcxlxSnr4_bjweAE1LHm3Qh412hpKn3nmQdRb48aAqAiEALw_wcB">
+        <h3>Sucursal Virtual Personas  </h3>
+      </a></li>
+
+      <li><a href="https://sucursalempresas.transaccionesbancolombia.com/SVE/control/BoleTransactional.bancolombia">
+        <h3>Sucursal Virtual Empresas</h3>
+      </a></li>
+
+      <li><a href="//www.grupobancolombia.com/wps/portal/empresas/necesidades/documentos/">
+        <h3>Solicitud de documentos</h3>
+      </a></li>
+
+      <li><a onclick="MM_openBrWindow('https://facturanet.todo1.com/default_finalBancolombia.asp?pais=CO&amp;ingreso=si','VentanaUnicaFCN','status=yes,scrollbars=yes,resizable=yes,width=1024,height=768')">
+        <h3>Facturanet</h3>
+      </a></li>
+
+      <li><a href="/wps/portal/personas/solicitud-de-productos-wcm">
+        <h3>Solicitud de Productos</h3>
+      </a></li>
+
+      <li><a href="/wps/portal/personas/solicitud-de-productos-wcm">
+        <h3>Solicitud de Productos</h3>
+      </a></li>
+
+      <li>
+        <ul>
+          <li>
+              <h4 id="rr2esaddas2d2" onclick="max_menos(this.id)">
+                  <span>Formación</span><span class="plus">+</span><span class="menos" style="display: none;">-</span>
+              </h4>
+              <ul>
+                <li><a href="/wps/portal/negocios-pymes/eventos">
+                    <h5>
+                      <span>Eventos</span>
+                    </h5>
+                </a></li>
+                <li><a href="/wps/portal/negocios-pymes/formacion">
+                    <h5>
+                      <span>Social Selling</span>
+                    </h5>
+                </a></li>
+                <li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">
+                    <h5>
+                      <span>Incoterms</span>
+                    </h5>
+                </a></li>
+              </ul>
+          </li>
+      </ul>
+      </li>
+
+      <li>
+        <ul>
+          <li>
+              <h4 id="rrads22dsa2e2" onclick="max_menos(this.id)">
+                  <span>Sectores</span><span class="plus">+</span><span class="menos" style="display: none;">-</span>
+              </h4>
+              <ul>
+                <li><a href="/wps/portal/negocios-pymes/sectores/agroindustria">
+                    <h5>
+                      <span>Agroindustria</span>
+                    </h5>
+                </a></li>
+                <li><a href="/wps/portal/negocios/sectores/comercios">
+                    <h5>
+                      <span>Comercios</span>
+                    </h5>
+                </a></li>
+                <li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">
+                    <h5>
+                      <span>Incoterms</span>
+                    </h5>
+                </a></li>
+              </ul>
+          </li>
+      </ul>
+      </li>
+    </ul>
+  </div>
+  
+  <div class="social-mob">
+    <a href="https://www.facebook.com/bancolombia" title="" target="_blank" class="enlaces-social"><img src="/wps/wcm/connect/8381c063-10a6-4478-b882-0abb58174789/facebook+1+%281%29.svg?MOD=AJPERES"></a>
+    <a href="https://twitter.com/Bancolombia" title="" target="_blank" class="enlaces-social"><img src="/wps/wcm/connect/d3bc1129-8e00-4f8e-846a-7cceea2829fe/twitter+1+%281%29.svg?MOD=AJPERES"></a>
+    <a href="https://instagram.com/bancolombia/" title="" target="_blank" class="enlaces-social"><img src="/wps/wcm/connect/032a43d4-a4a5-48b0-9cba-abc390a2835a/instagram-sketched+1+%281%29.svg?MOD=AJPERES"></a>
+    <a href="https://www.youtube.com/channel/UCsvQ-hst7CZGaMtHcDe5geQ" title="_blank" target="" class="enlaces-social"><img src="/wps/wcm/connect/9652c74d-c8cd-423e-951b-8b6b83f346f1/youtube+1+%281%29.svg?MOD=AJPERES"></a>
+    <a href="https://www.linkedin.com/company/22690" title="" target="" class="enlaces-social"><img src="/wps/wcm/connect/9bf72b7a-577c-48c4-848f-99fb67f93023/linkedin+1+%281%29.svg?MOD=AJPERES"></a>
+ </div>
+  <!-- <ul>
+      <li><a href="">Frontend</a></li>
+      <li><a href="">Backend</a></li>
+      <li><a href="">Mobile</a></li>
+  </ul>  -->
+</div>
+      </div>
+      <a href="javascript:void(0);" class="icon" onclick="openNav()">
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+      </a>
+    </div>
+    <div class="searchRwd" style="display: none;">
+        <div class="container">
+          <div class="row">
+            <form action="/wps/portal/negocios-pymes/buscador">
+              <div class="col-sm-8 col-xs-8">
+                <input type="search" placeholder="Busca lo que tú necesitas" name="termino" id="terminoBusqueda2" class="ui-autocomplete-input" autocomplete="off">
+              </div>
+              <div class="col-sm-4 col-xs-4">
+                <div class="row">
+                  <input type="submit" value="Buscar" class="btnPrincipal">
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+  </div>
+
+<script>
+
+function openNav() {
+    document.getElementById("mySidenav").style.width = "200%";
+}
+
+function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+}
+
+function click_toggle_4(clicked_id){
+    let estado = document.querySelector('#'+clicked_id).classList.toggle('activo');
+    let padre = document.querySelector('#'+clicked_id).parentNode;
+    let hijo =  padre.querySelector('.ul-c').classList.toggle('cambio');
+}
+
+function max_menos(clicked_id){
+    let padre = document.querySelector('#'+clicked_id).parentNode;
+    let hijo =  padre.querySelector('ul').classList.toggle('cambio');
+    let sobrino =  padre.querySelector('.plus').classList.toggle('ocultar');
+    let sobrino2 =  padre.querySelector('.menos').classList.toggle('mostrar');
+}
+
+</script>
+
+<style>
+	header{
+    margin: 0 auto;
+  }
+  .menu-superior {
+      display: flex;
+      background: #2C2A29 !important;
+      width: 100%;
+      max-width: 1300px;
+      margin: auto;
+  }
+  ul{
+    list-style: none;
+  }
+  #menu-sup li>a{
+      background-color: #2C2A29;
+      padding: 17px 20px;
+      display: block;
+      text-decoration: none;
+      font-family: Open Sans;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 16px;
+      line-height: 22px;
+      text-align: center;
+      letter-spacing: -0.3px;
+      color: #fff;
+  }
+  
+  #menu-sup li>a:hover {
+      background-color: #fff;
+      color: #2C2A29;
+      cursor: pointer;
+  }
+  
+  #menu-sup li>a.active{
+      background-color: #fff;
+      color: #2C2A29;
+  }
+  
+  
+  
+  #menu-sup>li{
+    float: left;
+    text-align:center
+  }
+  #menu-sup>li>ul{
+    display: none;
+  }
+  
+  
+  .logo img{
+      padding-right: 50px;
+  }
+  
+  .menu-inferior{
+      display: flex;
+      background: #fff !important;
+      width: 100%;
+      padding: 13px 0px;
+      max-width: 1300px;
+      margin: auto;
+  }
+  
+  .menu-superior nav, .menu-inferior nav {
+      max-width: 1300px;
+      margin: auto;
+      margin-left: 0px;
+  }
+  
+  .menu-inferior #menu-sup li>a{
+      color: #2C2A29;
+      margin: 18px 15px 16px;
+      padding: 0px 4px 3px 4px;
+      background-color: #fff;
+      border-bottom: 3px solid #FFD20000;
+      transition: 0.5s;
+  }
+  
+  .menu-inferior #menu-sup li>a.active-border{
+      border-bottom: 3px solid #FFD200;
+  }
+  
+  .menu-inferior #menu-sup li>a:hover{
+      border-bottom: 3px solid #FFD200;
+  }
+  
+  
+  .flecha-abajo{
+      margin-left: 6px;
+      padding-top: 0px;
+      margin-bottom: 2px;
+      transition: 0.3s;
+  }
+  
+  .transacciones .menu-transacciones ul li {
+      margin-top: 0px;
+      text-align: left;
+      padding-left: 0px;
+      background-image: url(../images/modules/navegacion/icons/gray-bullet.png);
+      background-repeat: no-repeat;
+      background-position: 0 6px;
+  }
+  
+  .search-b {
+      right: 10px;
+  }
+  
+  .search-b a{
+      background-color: #2C2A29;
+      padding: 13px 20px;
+      display: block;
+      text-decoration: none;
+      font-family: Open Sans;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 16px;
+      line-height: 22px;
+      text-align: center;
+      letter-spacing: -0.3px;
+      color: #fff;
+  }
+  
+  .search-b img{
+      margin-left: 8px;
+      margin-bottom: -5px;
+      width: 20px;
+  }
+  
+  .transacciones {
+      right: 10px;
+      margin-top: 6px;
+      margin-right: 10px;
+  }
+  
+  .transacciones .flecha-transacciones:after {
+      bottom: 100%;
+      left: 50%;
+      border: solid transparent;
+      content: " ";
+      height: 0;
+      width: 0;
+      pointer-events: none;
+      border-color: rgba(0, 68, 140, 0);
+      border-bottom-color: #FDDA24;
+      border-width: 5px;
+      margin-left: 90px;
+  }
+  
+  .transacciones a {
+      background-color: #FDDA24;
+      padding: 10px 20px;
+      display: block;
+      text-decoration: none;
+      font-family: CIBFont Sans, Open Sans;
+      font-size: 18px;
+      line-height: 22px;
+      text-align: center;
+      letter-spacing: -0.3px;
+      color: #000;
+      margin-top: 0px;
+      border-radius: 100px;
+      cursor: pointer;
+  }
+  
+  .transacciones .btn-amarillo{
+      background-color: #FDDA24;
+      padding: 10px 20px;
+      display: block;
+      text-decoration: none;
+      font-family: CIBFont Sans, Open Sans;
+      font-size: 18px;
+      line-height: 22px;
+      text-align: center;
+      letter-spacing: -0.3px;
+      color: #000;
+      margin-top: 10px;
+      border-radius: 100px;
+  }
+  
+  .transacciones img{
+      margin-right: 8px;
+  }
+  
+  
+  /* Mobile  */
+  .mobile-container {
+      background: bisque;
+  }
+    
+  .mobile-container {
+    margin: auto;
+    background-color: #fff;
+    color: #2C2A29;
+    border-radius: 10px;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #fff;
+    position: relative;
+  }
+  
+  .topnav #myLinks {
+    display: none;
+  }
+  
+  .topnav a {
+    color: white;
+    padding: 10px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+  }
+  
+  .topnav #myLinks a {
+      padding: 14px 25px;
+  }
+  
+  .topnav #myLinks li a {
+      padding: 14px 40px 14px 16px;
+      padding: 14px 16px 14px 45px;
+  }
+  
+  .topnav a.icon {
+    padding: 20px 25px 20px 16px;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    
+  }
+  
+  div.bar {
+      width: 35px;
+      height: 2px;
+      background-color: #2C2A29;
+      margin: 9px 0;
+  }
+  
+  .sidenav {
+      height: 100%;
+      width: 0;
+      position: fixed;
+      z-index: 1;
+      top: 0;
+      right: 0;
+      overflow-x: hidden;
+      transition: 0.5s;
+      z-index: 999999;
+  }
+  
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #2C2A29;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  /*
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  */
+  .sidenav .closebtn {
+    position: absolute;
+    top: -8px;
+    right: 10px;
+    font-size: 50px;
+  }
+  .sidenav-fondo {
+      width: 100%;
+      position: absolute;
+      height: inherit;
+      top: 0px;
+      background-color: #2c2a29b8;
+      z-index: 100;
+  }
+  .sidenav-interna {
+      width: 300px;
+      position: relative;
+      height: inherit;
+      top: 0px;
+      background: #fff;
+      z-index: 138;
+      margin-right: 0px !important;
+      margin-left: auto;
+      overflow: scroll;
+  }
+  
+  .sidenav-interna h4, .sidenav-interna h3 {
+      font-size: 16px;
+      font-family: Open sans;
+      padding: 17px 16px;
+      background: #bdbdbd;
+      color: #2C2A29;
+      margin-bottom: 0px !important;
+      font-weight: 400;
+  }
+  
+  .sidenav-interna h5{
+      margin-bottom: 0px !important;
+  }
+  
+  
+  .sidenav-interna a h5 span{
+      font-size: 16px;
+      font-family: Open sans;
+      padding: 17px 16px 17px 32px;
+      background: #e2e2e2;
+      color: #2C2A29;
+      display: block;
+      font-weight: 400;
+      margin-bottom: 0px;
+  }
+  
+  .sidenav-interna ul.cambio{
+      display: block !important;
+  }
+  
+  .sidenav-interna ul{
+      display: none;
+  }
+  
+  .sidenav-interna ul ul{
+      display: block;
+  }
+  
+  .sidenav-interna ul ul ul{
+      display: none;
+  }
+  
+  a.logo-menu-mobile {
+      padding: 10px 0px !important;
+  }
+  
+  .sidenav a {
+      padding: 0px 0px 0px 0px;
+  }
+  
+  a.link-nav {
+      font-size: 16px;
+      font-family: Open sans;
+      padding: 17px 16px;
+      background: #F4F4F4;
+  }
+  
+  a.link-nav.active {
+      background: #F4F4F4;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+  
+  @media screen and (max-width: 700px){
+      .menu-superior,  .menu-inferior {
+          display: none;
+      }
+  
+  
+      .search-b a {
+          font-size: 0px;
+          padding: 12px 10px 6px;
+      }
+      .search-b img {
+          margin-left: 8px;
+          margin-bottom: -5px;
+          width: 32px;
+      }
+  
+      .topnav #myLinks a {
+          color: #2C2A29;
+      }
+  
+      .topnav #myLinks a.active, .topnav #myLinks li a {
+          color: #2C2A29;
+      }
+      
+  }
+  @media screen and (min-width: 701px){
+      .mobile-container {
+          display: none;
+      }
+  }
+  
+  
+  
+  /*  Tablet  */
+  @media screen and (min-width: 701px) and (max-width: 1000px){
+      .search-b a {
+          padding: 13px 8px 13px 0px;
+          font-size: 0px !important;
+          margin-right: -2px;
+      }
+  
+      #menu-sup li>a {
+          padding: 17px 17px;
+      }
+  
+      .logo img {
+          padding-right: 0px;
+      }
+      .menu-inferior {
+          display: block;
+      }
+  
+      
+      .menu-inferior nav {
+          width: 100%;
+          display: flex;
+      }
+  
+      .transacciones a {
+          max-width: 174px;
+      }
+  
+      .transacciones {
+          right: 10px;
+          position: absolute;
+          margin-top: 6px;
+          right: 10px;
+          position: inherit;
+          width: 200px;
+          margin: auto;
+          margin-right: 10px;
+          float: right;
+          margin-bottom: 20;
+      }
+  }
+  
+  a.logo {
+      padding: 0px !important;
+      margin: 0px !important;
+  }
+  
+  @media screen and (min-width: 700px){
+      .sub-menu-top{
+          position: absolute;
+          width: 100%;
+          left: 0;
+          padding: 30px 30px;
+          z-index: 1000;
+          opacity: 1;
+          box-shadow: 0 2px 3px 1px rgb(0 0 0 / 10%);
+          background: #fff;
+      }
+  
+      .sub-menu-top .col-md-4 {
+          width: 50%;
+          float: left;
+          flex: 0 0 50%;
+          max-width: 50%;
+      }
+  
+      .submenu-title {
+          margin-bottom: 18px;
+          font-family: "Nunito", sans-serif;
+          font-size: 16px;
+          font-weight: bold;
+          border-bottom: none;
+          text-align: left;
+      }
+      .submenu-cont_item {
+          position: relative;
+          margin-bottom: 5px;
+      }
+      .submenu-cont_item a {
+          color: #2C2A29 !important;
+          text-align: left !important;
+      }
+  
+      .sub-menu-top li>a {
+          background-color: #ffffff !important;
+          padding: 0px 0px !important;
+          display: block;
+          text-decoration: none;
+          font-family: Open Sans;
+          font-style: normal;
+          font-weight: normal;
+          font-size: 16px;
+          line-height: 22px;
+          text-align: center;
+          letter-spacing: -0.3px;
+          color: #2C2A29 !important;
+          text-align: left;
+      }
+  
+      .sub-menu-top li {
+          position: relative;
+          margin-bottom: 5px;
+          text-align: left;
+      }
+      ul.ul-p.mostrar {
+          display: block !important;
+      }
+  
+      .rotar-flecha{
+          transition: 0.2s;
+          transform: rotate(180);
+      }
+      .rotar-flecha {
+          transition: 0.2s;
+          transform: rotate(-180deg);
+          /* padding-left: 0px; */
+      }
+  }
+  
+  .layoutRow {
+      width: 100%;
+  }
+  
+  
+  
+  div#menu-transacciones .menu-transacciones {
+      display: none;
+      background-color: #00448c;
+      color: #fff;
+      position: absolute;
+      padding: 40px 22px 0;
+      width: 215px;
+      right: 0;
+      margin-top: 8px;
+      text-align: left;
+      border-radius: 4px;
+  }
+  
+  div#menu-transacciones.mostrar{
+      display: block !important;
+      position: absolute;
+      background: #f6d922;
+      border-radius: 23px;
+      margin: 10px;
+      margin-top: 12px;
+      margin-left: -173px;
+      padding-bottom: 15px;
+      padding-left: 15px;
+      z-index: 99;
+      max-width: 412px;
+  }
+  
+  .flecha-transacciones:after {
+      bottom: 100%;
+      left: 50%;
+      border: solid transparent;
+      content: " ";
+      height: 0;
+      width: 0;
+      pointer-events: none;
+      border-color: rgba(0, 68, 140, 0);
+      border-bottom-color: #ffffff;
+      border-width: 5px;
+      display: block;
+      margin-bottom: -12px;
+      margin-left: 100px;
+  }
+  
+  .cerrar a{
+      text-align: right;
+      font-size: 14px;
+      margin-top: 0px;
+  }
+  
+  .cerrar a span{
+      border: 1px solid;
+      padding-left: 5px;
+      padding-right: 5px;
+  }
+  
+  div#menu-transacciones .row a{
+      text-align: left;
+      margin-top: 0px;
+      text-align: left;
+      padding: 6px 20px;
+      font-size: 16px;
+  }
+  
+  div#menu-transacciones .row a:hover{
+      text-decoration: none;
+      color: #000;
+  }
+  
+  div#menu-transacciones .row {
+      margin-right: 0px;
+      margin-left: 0px;
+  }
+  
+  a.logo {
+      border-bottom: 0px solid #FFD20000 !important;
+  }
+  
+  h4 span.plus, h4 span.menos  {
+      position: absolute;
+      right: 15px;
+      font-size: 20px;
+  }
+  
+  .mostrar {
+      display: initial !important;
+  }
+  
+  .ocultar {
+      display: none !important;
+  }
+  
+  .caja-25 .social {
+      margin-bottom: 20px;
+  }
+  
+  .sidenav-interna ul {
+      margin-bottom: 0px;
+  }
+  
+  
+  
+  div#menu-transacciones .menu-transacciones {
+      display: none;
+      background-color: #00448c;
+      color: #fff;
+      position: absolute;
+      padding: 40px 22px 0;
+      width: 215px;
+      right: 0;
+      margin-top: 8px;
+      text-align: left;
+      border-radius: 4px;
+  }
+  
+  
+  .flecha-transacciones:after {
+      bottom: 100%;
+      left: 50%;
+      border: solid transparent;
+      content: " ";
+      height: 0;
+      width: 0;
+      pointer-events: none;
+      border-color: rgba(0, 68, 140, 0);
+      border-bottom-color: #ffffff;
+      border-width: 5px;
+      display: block;
+      margin-bottom: -12px;
+      margin-left: 100px;
+  }
+  
+  .cerrar a{
+      text-align: right;
+      font-size: 14px;
+      margin-top: 0px;
+  }
+  
+  .cerrar a span{
+      border: 1px solid;
+      padding-left: 5px;
+      padding-right: 5px;
+  }
+  
+  
+  .mobile-container {
+      color: #2c2a29;
+  }
+  
+  a.link-nav {
+      color: #2c2a29 !important;
+      text-decoration: none !important;
+  }
+  
+  
+  
+  /*Extras*/
+  
+  .contenido .container-fluid {
+      max-width: 1300px;
+  }
+  
+  .contenido .descubre-text {
+      width: 300px;
+  }
+  
+  
+  
+  ul.submenu-cont {
+      list-style-image: url("images/check-menu-negocios.png");
+      /* margin-top: -38px; */
+      padding-left: 24px;
+  }
+  
+  
+  ul.submenu-cont {
+      list-style-image: url(https://panama.grupobancolombia.com/Bancolombia_Filiales_estatico/themes/Bancolombia_Personas/css/styles/images/lists/bullets/check-menu-negocios.png);
+      /* margin-top: -38px; */
+      padding-left: 24px;
+  }
+  
+  div#menu-transacciones .row a {
+      padding-left: 38px;
+      background-image: url(https://panama.grupobancolombia.com/Bancolombia_Filiales_estatico/themes/Bancolombia_Personas/css/styles/images/modules/navegacion/icons/gray-bullet.png);
+      background-repeat: no-repeat;
+      background-position: 12px 12px;
+  }
+  
+  @media screen and (min-width: 1000px){
+      .sub-menu-top {
+          width: 70%;
+          padding: 30px 0px;
+          margin: 0% 15%;
+      }
+  }
+  
+  .top-menu.hidden-xs {
+      padding: 0px 30px;
+  }
+  
+  .fondo-sup {
+      background: #2C2A29 !important;
+  }
+  
+  
+  .d50 p.color-red.u-bold {
+      font-family: CIBFont Sans, Open Sans;
+      color: #fff !important;
+      padding-left: 6px;
+      margin-bottom: 6px;
+  }
+  
+  @media screen and (min-width: 1000px){
+  
+      .menu-inferior .over {
+          background-image: url("images/menu-ppal-flecha-negra.png") !important;
+          background-position: center bottom;
+          background-repeat: no-repeat;
+          background-size: 20px;
+      }
+  
+      .menu-inferior .sub-menu-top {
+          width: 100%;
+          padding: 0px 0%;
+          margin: 0% 0%;
+      }
+  
+      .menu-inferior .top-menu.hidden-xs {
+          padding: 0px 10%;
+      }
+  
+      .titulo-t {
+          width: 100%;
+      }
+  
+      .titulo-t {
+          text-align: left;
+          border-bottom: 2px solid #2C2A29;
+          margin: 20px 0px;
+      }
+  
+      .titulo-t h2 {
+          font-size: 18px;
+          font-weight: 700;
+          color: #2C2A29;
+          font-family: "Nunito", sans-serif;
+          padding-bottom: 10px;
+      }
+  
+      .menu-inferior .sub-menu-top {
+          width: 100%;
+          padding: 0px 0%;
+          margin: 0% 0%;
+          border-top: 10px solid #2C2A29;
+          padding-bottom: 20px;
+      }
+  
+      .boton-movil {
+          padding: 18px 0px 18px 90px;
+          transition: all .5s ease 0s;
+          background-position-y: -70% !important;
+          margin-right: 30px;
+          display: block;
+          font-size: 20px;
+          color: #2C2A29;
+          text-decoration: none;
+          font-family: Open Sans;
+          text-align: left;
+      }
+  
+      .boton-movil:hover {
+          color: #fff;
+          transition: all .5s ease 0s;
+          text-decoration: none;
+          background-color: #2C2A29!important;   
+      }
+  
+  
+      ul.list-second {
+          list-style: disc;
+          color: #dd3542;
+          border-top: 2px solid;
+          padding-left: 20px;
+          margin-right: 30px;
+      }
+  
+      .col-md-4:nth-child(3) ul.list-second {
+          list-style: none;
+          padding-left: 0px;
+      }
+  
+      .menu-inferior .container-fluid .col-xs-4 {
+          width: 30% !important;
+          float: left;
+          position: relative;
+          min-height: 1px;
+          padding-left: 15px;
+          padding-right: 15px;
+      }
+  
+      ul.list-second li a {
+          margin: 10px 5px !important;
+          text-align: left !important;
+      }
+  
+      ul.list-second li a:hover {
+          border-bottom: 3px solid #DD354200 !important;
+      }
+  
+      p.u-regular.mt-2 {
+          text-decoration: none;
+          font-family: Open Sans;
+          font-style: normal;
+          font-weight: normal;
+          font-size: 16px;
+          line-height: 22px;
+          color: #000;
+      }
+  
+      
+      
+  }
+  
+  .img-izquierda.col-xs-4 .row-fluid:hover {
+      background-color: #f6d922;
+  }
+  
+  .img-izquierda>.row-fluid {
+      cursor: pointer;
+      border-bottom: 1px solid #d6d6d6;
+      height: 60px;
+      line-height: 60px;
+      color: #211915;
+      background-repeat: no-repeat;
+      background-position: 0 center;
+      transition: all .5s ease;
+      background-position-x: 10px;
+      display: list-item;
+  }
+  
+  .img-izquierda>.row-fluid a {
+      display: inline-flex;
+      width: 100%;
+      height: 100%;
+      color: #211915;
+      text-decoration: none;
+      padding-left: 50px;
+      transition: all .5s ease;
+      font-family: Open Sans;
+      font-size: 16px;
+      line-height: 1.3;
+      text-align: left;
+  }
+  
+  .menu-inferior .pata .col-xs-12 {
+      display: flex;
+      width: 100%;
+      border-top: 1px solid #333;
+      margin-top: -1px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      position: relative;
+      z-index: 0;
+  }
+  
+  .menu-inferior .pata .col-xs-12 .row {
+      width: 100%;
+  }
+  
+  .menu-inferior .pata .col-xs-12 h2 {
+      text-align: left;
+      margin-bottom: 12px;
+      font-family: Open Sans;
+      font-size: 20px;
+  }
+  
+  .menu-inferior .pata .col-xs-12 p {
+      text-align: left;
+      font-family: Open Sans;
+  }
+  
+  .menu-inferior .pata .col-xs-12 .col-xs-8 {
+      width: 66.66666667%;
+      float: left;
+  }
+  
+  .pata .canal {
+      float: left;
+      max-width: 111px;
+      margin-right: 5px;
+      font-family: Open Sans;
+  }
+  
+  .pata .canal a div {
+      margin-left: 20px ;
+      width: 68px;
+      height: 60px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      text-decoration: none;
+      color: #333;
+  }
+  
+  .pata .canal a p {
+      margin-top: 10px;
+      text-align: center !important;
+      line-height: 14px;
+      text-decoration: none;
+      color: #333;
+      font-family: Open Sans;
+      line-height: 1.2;
+  }
+  
+  .pata .canal a {
+      text-decoration: none;
+  }
+  
+  .solicitud {
+      right: 20px;
+      margin-top: 6px;
+      margin-right: 20px;
+  }
+  
+  .solicitud a {
+      background-color: #fff;
+      padding: 8px 20px;
+      display: block;
+      text-decoration: none;
+      font-family: CIBFont Sans, Open Sans;
+      font-size: 18px;
+      line-height: 22px;
+      text-align: center;
+      letter-spacing: -0.3px;
+      color: #2C2A29 ;
+      margin-top: 0px;
+      border-radius: 100px;
+      cursor: pointer;
+      display: flex;
+      border: 1px solid;
+  }
+  
+  .solicitud a img{
+      filter: invert(0%);
+      margin-left: 5px;
+  }
+  
+  .solicitud a:hover {
+      background-color: #2C2A29 ;
+      color: #fff ;
+      text-decoration: none;
+  }
+  
+  .solicitud a:hover img{
+      filter: invert(100%);
+          margin-left: 5px;
+  }
+  
+  
+  .row.cont-titulo-menu .col-sm-4 {
+      width: 28%;
+      float: left;
+      padding: 15px;
+  }
+  
+  .row.cont-titulo-menu .col-sm-4 h2 {
+      font-size: 22px;
+      padding: 20px 10px 0px;
+      text-align: left;
+  }
+  
+  .row.cont-titulo-menu .col-sm-4 h2 a{
+      color: #2c2a29 !important;
+      text-decoration: none;
+      font-family: Open Sans;
+  }
+  .row.cont-titulo-menu .col-sm-4 p{
+      font-size: 12px;
+      line-height: 1.57142857;
+      color: #2c2a29;
+      font-family: Open Sans;
+      text-align: left;
+      padding: 20px 10px;
+  }
+  
+  .row.cont-titulo-menu .col-sm-4 a.btn.btn-primary {
+      width: 100%;
+      background: #f6d922;
+      display: table;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      border-radius: 25px;
+      color: #2c2a29;
+      font-size: 16px;
+      font-family: Open Sans;
+      text-decoration: none;
+  }
+  
+  .row.cont-titulo-menu  .img-izquierda.col-xs-12 {
+      width: 30%;
+      float: left;
+      margin-bottom: 20px;
+      padding-right: 20px;
+  }
+
+
+
+
+
+
+  
+
+
+
+
+ul.menuPersonas {
+    margin-bottom: 0 !important;
+}
+
+.top-ribbon{
+    background-color: #2C2A29 !important;
+}
+
+#menu-1nivel li a {
+    color: #fff;
+    text-decoration: none;
+    font-family: CIBFont Sans, CIBFontSans-Light, Open Sans;
+}
+
+div#menu-1nivel .row ul li:hover {
+    background-color: #fff;
+}
+
+div#transacciones {
+    background-color: #FDDA2A;
+    padding: 8.5px 16.5px !important;
+    text-decoration: none;
+    font-family: Open Sans;
+    font-size: 16px !important;
+    text-align: center;
+    letter-spacing: -0.3px;
+    color: #2C2A29;
+    border-radius: 100px;
+    cursor: pointer;
+    border: 2px solid #FDDA2A;
+    max-width: none;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.btnSecundario {
+    box-shadow: 0px 1px 8px rgb(0 0 0 / 10%);
+    border: 0px solid #00448c !important;
+    padding: 8.5px 16.5px !important;
+    text-decoration: none;
+    font-family: Open Sans;
+    font-size: 16px !important;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.btnSecundario a{
+    color: #2C2A29 !important;
+    font-size: 16px;
+}
+
+.buttonHeader .menu-transacciones {
+    right: 16px !important;
+    margin-top: 59px !important;
+}
+
+#menu-top ul li a {
+    color: #ffffff !important;
+    font-size: 16px;
+    padding: 12px 6px 2px !important;
+    border-bottom: 2px solid #f6d92900;
+    margin-bottom: 9px;
+    margin: 0px 10px 6px;
+}
+
+#menu-top ul li.active a {
+    border-bottom: 2px solid #f6d929;
+}
+
+#menu-top ul li:hover {
+    background-color: #ffffff !important;
+}
+
+#menu-top ul li:hover a{
+    color: #2C2A29 !important;
+}
+
+#menu-top ul li ul {
+    background: #ffffff !important;
+}
+
+#menu-top ul li.active a {
+    border-bottom: 3px solid #ffd200;
+}
+
+.searchRwd {
+    background-color: #2C2A29;
+}
+
+.searchHeader {
+    padding-top: 22px  !important;
+}
+
+#menu-top {
+    background-color: #2c2a29 !important;
+}
+
+section#menu-top .container,  div#menu-1nivel .container, .row.nopadding .container, .breadcrumbs .container {
+    max-width: 1300px !important;
+    width: 100%;
+    display: block;
+}
+
+li#menu-filiales {
+    padding-right: 30px;
+}
+
+#menu-top ul li ul li a {
+    margin: 0px !important;
+    padding: 10px 10px 10px !important;
+}
+
+.caret {
+    margin-left: 10px;
+}
+
+
+div#menu-1nivel .row ul li:hover {
+    background-color: #000 !important;
+    filter: invert(1);
+}
+
+div#menu-1nivel .row ul li:hover a {
+    color: #2c2a29;
+    filter: invert(100);
+}
+
+ul.menuPersonas li.itemNone img {
+    max-height: initial !important;
+}
+
+.btnSecundario img {
+    margin-left: 10px;
+}
+
+.btnPrincipal img {
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+img.center-block {
+    width: 26px;
+    max-width: 25px;
+}
+
+.top-menu.hidden-xs .container-fluid {
+    width: 900px !important;
+    max-width: 900px;
+}
+
+.btnPrincipal:before {
+    content: " " !important;
+}
+
+div#menu-1nivel {
+    width: 100% !important;
+    max-width: 1300px;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+}
+
+div#personasNivel2 {
+    padding: 0px !important;
+}
+
+section.forYou .container-fluid, section.header.pt-4.pb-1 .container-fluid, section.pageRelated .container-fluid{
+    max-width: 100%;
+}
+
+@media screen and (max-width: 701px){
+    a.copyright {
+        color: #fff !important;
+        font-size: 12px;
+        text-decoration: none;
+        padding: 24px !important;
+    }
+
+    nav.menu.menu--open {
+        padding-left: 20%;
+        background: #00000052;
+    }
+
+    .logoMob {
+        padding-left: 40px;
+        padding-right: 40px;
+        padding: 0px !important;
+    }
+
+    .action--open {
+        margin-top: 12px !important;
+    }
+
+    .logoMob img:last-child {
+        max-width: 90% !important;
+    }
+
+    .menu {
+        top: 64p !important;
+    }
+    .menu__level {
+        background-color: #ffffff !important;
+    }
+
+    .menu__link {
+        color: #2C2A29 !important;
+    }
+
+    .menu__breadcrumbs {
+        background-color: #fff !important;
+    }
+
+    .menu__breadcrumbs a{
+        color: #2C2A29 !important;
+    }
+
+    div#personasNivel2 {
+        display: none !important;
+    }
+
+    section.contactUs.py-5 .icon-text.col-6.col-lg-2 {
+        width: 50%;
+        float: left;
+    }
+    
+    .sidenav-interna h4, .sidenav-interna h3, .sidenav-interna h5 {
+        margin-top: 0px;
+    }
+    
+    a.link-nav.activo {
+        background: #2c2a29;
+        color: #fff !important;
+    }
+    
+    .searchHeaderRwd {
+        margin-right: -54px;
+        padding-left: 0px !important;
+    }
+    
+    .mobile-container {
+        display: block !important;
+    }
+
+    a.closebtn {
+        color: #8a8a8a !important;
+        text-decoration: none !important;
+        top: -17px !important;
+    }
+
+    .topnav a.active img {
+        margin: auto;
+        display: block;
+    }
+
+    .searchRwd form {
+        display: block;
+        width: 100%;
+    }
+
+    .searchRwd .col-sm-8.col-xs-8 {
+        width: 66.66666667%;
+    }
+
+    .searchRwd .col-sm-4.col-xs-4 {
+        width: 33.33333%;
+    }
+    
+}
+
+ul.menuPersonas li.itemNone img {
+    max-height: 100% !important;
+}
+
+.row.nopadding ul {
+    margin-bottom: 0px;
+}
+
+.button-lines.text-center.py-3 {
+    margin-bottom: 30px;
+}
+
+.breadcrumb {
+    padding: 0px 15px !important;
+    margin-bottom: 0px !important;
+}
+
+.searchRwd .row, .searchRwd .row form {
+    width: 100%;
+}
+
+.buttonHeader {
+    margin-top: 5px !important;
+}
+
+span.caret {
+    display: none;
+}
+
+.dropdown-toggle::after {
+    margin-left: 10px;
+    vertical-align: .155em;
+}
+
+a.logo-menu-mobile img {
+    margin-left: 0px !important;
+}
+
+.breadcrumb {
+    background-color: #f4ca09 !important;
+    margin: auto;
+}
+</style></div>
+<!-- 		<div class="row-fluid submenu hidden-xs" > -->
+			<!-- renders the level 3 navigation -->
+<!-- 			<a rel="dynamic-content" -->
+<!-- 				href="dyn-cs:id:bancolombiapymes_navegacionNivel3"></a> -->
+<!-- 		</div> -->
+		<div class="breadcrumbs">
+			<!-- renders the breadcrumb -->
+			
+
+		<div class="row-fluid">
+			<div class="container">
+				<div class="row">
+					<ol itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList" class="breadcrumb col-xs-12 col-sm-10">
+						
+						
+							
+							<li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+											<a itemprop="item" href="/wps/portal/negocios"> 
+												<span itemprop="name" style="display: none;">Negocios</span>
+												<meta itemprop="position" content="1">
+											</a>									
+									</li>
+												
+					</ol>					
+				</div>
+			</div>
+		</div>		
+	</div>
+	
+	<div id="main-content">
+		<!-- MAIN CONTENT GOES HERE! -->
+		
+
+ 
+
+
+
+
+
+		
+
+ 
+
+
+
+
+	
+		<div class="component-control id-Z7_2G9I1K41N8AD50QDBM0JIMJDS3"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <link rel="stylesheet" href="/wps/wcm/connect/9a451773-2004-4d26-8fb7-873824e9fb66/bootstrap.min.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-9a451773-2004-4d26-8fb7-873824e9fb66-ntcHMvQ">
+<link rel="stylesheet" href="/wps/wcm/connect/518584fe-dbf1-4d1f-a022-fe9c491b6f26/swiper-bundle.min.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-518584fe-dbf1-4d1f-a022-fe9c491b6f26-ntcIY9W">
+<link rel="stylesheet" href="/wps/wcm/connect/aef21dca-5803-4894-8a34-7981c28057a4/openSans.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-aef21dca-5803-4894-8a34-7981c28057a4-ntcHMHs">
+<!--<link rel="stylesheet" href="[Component name="NegociosBanco/dirHomeNegocios/dirCss/cibfont">-->
+<link rel="stylesheet" href="/wps/wcm/connect/078ca6df-3ed7-470e-80d3-c66dfab8d1a9/styles.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-078ca6df-3ed7-470e-80d3-c66dfab8d1a9-nAZ9J4d">
+
+<section class="header pt-4 pb-1">
+  <div class="container-fluid">
+    <div class="swiper-container swiper-container-initialized swiper-container-horizontal">
+      <div class="swiper-wrapper" id="swiper-wrapper-0d5d27444c212676" aria-live="off" style="transform: translate3d(-1334px, 0px, 0px); transition-duration: 0ms;">
+        <div class="swiper-slide swiper-slide-prev" role="group" aria-label="1 / 3" style="width: 1319px; margin-right: 15px;">
+  <div class="row">
+    <div class="col-12 col-md-6 col-lg-6 my-lg-auto my-md-auto">
+      <div class="text-banner mx-lg-auto mx-md-auto">
+        <h1>Ahora tus empleados podrán abrir su Cuenta de Nómina por Internet</h1>
+        
+        <p dir="ltr">En minutos y sin ir a una sucursal. Además reciben su tarjeta débito en el lugar que elijan.<br>
+Invítalos para que con <strong>Bancolombia tengan muchos beneficios.</strong></p>
+
+        <div class="button-section"><a class="btn btn-yellow" href="https://www.grupobancolombia.com/personas/productos-servicios/cuentas/ahorro/transaccional/cuenta-nomina" target="_blank" rel="noopener noreferrer">CONOCE MÁS</a></div>
+      </div>
+    </div>
+    <div class="col-12 col-md-6 col-lg-6">
+      <figure class="img-banner"><a href="https://www.youtube.com/watch?v=J4lDY5zn-B0" target="_blank" rel="noopener noreferrer"><img class="img-fluid" src="/wps/wcm/connect/46ef85bb-a2a5-4318-a449-c9b219f62568/negocios-img-01-DESK.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-46ef85bb-a2a5-4318-a449-c9b219f62568-nEMxBJB"></a></figure>
+    </div>
+  </div>
+</div><div class="swiper-slide swiper-slide-active" role="group" aria-label="2 / 3" style="width: 1319px; margin-right: 15px;">
+  <div class="row">
+    <div class="col-12 col-md-6 col-lg-6 my-lg-auto my-md-auto">
+      <div class="text-banner mx-lg-auto mx-md-auto">
+        <h1>Tu corazón lo sabe, eres invencible</h1>
+        
+        <p dir="ltr">Sigue levantándote día a día para darla toda, vende por Internet con <strong>Wompi</strong> y Botón Bancolombia Básico <strong>sin costo.</strong></p>
+
+        <div class="button-section"><a class="btn btn-yellow" href="https://wompi.co/?utm_campaign=estacional-pymes-servicios-pago-wompi-botonbancolombia&amp;utm_source=website&amp;utm_medium=link&amp;utm_content=Banner-homenegocios" target="_blank" rel="noopener noreferrer">CONOCE MÁS</a></div>
+      </div>
+    </div>
+    <div class="col-12 col-md-6 col-lg-6">
+      <figure class="img-banner"><img class="img-fluid" src="/wps/wcm/connect/13d24829-e46f-4f1a-933f-0e21607dbbb0/Banner+Home+negocios_651x450px_1.jpeg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-13d24829-e46f-4f1a-933f-0e21607dbbb0-nFYzZIn"></figure>
+    </div>
+  </div>
+</div><div class="swiper-slide swiper-slide-next" role="group" aria-label="3 / 3" style="width: 1319px; margin-right: 15px;">
+  <div class="row">
+    <div class="col-12 col-md-6 col-lg-6 my-lg-auto my-md-auto">
+      <div class="text-banner mx-lg-auto mx-md-auto">
+        <h1>Creemos en las pymes y pequeños negocios
+</h1>
+        
+        <p dir="ltr">Por eso hemos creado más de 400.000 nuevos créditos por más de $13,5 billones disponibles.</p>
+
+        <div class="button-section"><a class="btn btn-yellow" href="/wps/portal/negocios/credito-pymes" target="_blank" rel="noopener noreferrer">Conoce más </a></div>
+      </div>
+    </div>
+    <div class="col-12 col-md-6 col-lg-6">
+      <figure class="img-banner"><img class="img-fluid" src="/wps/wcm/connect/70d34800-aafc-47e4-8349-3ccdb51f50f7/negocios-img-01.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-70d34800-aafc-47e4-8349-3ccdb51f50f7-nFYzMY7"></figure>
+    </div>
+  </div>
+</div>
+      </div>
+      <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span></div>
+      <div class="swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-0d5d27444c212676" aria-disabled="false"></div>
+      <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-0d5d27444c212676" aria-disabled="false"></div>
+    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+  </div>
+</section>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_2G9I1K41N83V30Q35Q6ATS84I2"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+        
+            
+                
+                    
+                    
+                       
+                        
+                            <link rel="stylesheet" type="text/css" href="/wps/wcm/connect/6ae82297-a899-4968-a9ab-f7915be190c1/need.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-6ae82297-a899-4968-a9ab-f7915be190c1-ny-6j0q">
+<link rel="stylesheet" type="text/css" href="/wps/wcm/connect/aa8f0cc1-2c02-493b-814b-8df367a381e4/slick-theme.css?MOD=AJPERES">
+<link rel="stylesheet" type="text/css" href="/wps/wcm/connect/ce419272-a960-4e49-ade2-67b50b3294d1/slick.css?MOD=AJPERES">
+<style type="text/css">
+
+.need-slide-info a{
+color: #eee !important;
+}
+@media screen and (max-width: 768px) {
+#need {
+    background: #fff;
+    padding-bottom: initial!important;
+}
+.slick-prev{margin-left: 0px !important;}
+.slick-next{margin-right: 0px  !important;}
+}
+
+div#need-answer {
+    padding-top: 0px !important;
+}
+
+#need{
+    background: #fff;
+    padding-bottom: 36px;
+}
+#need h2 {
+    color: #222;
+    font-weight: 800;
+    text-align: left;
+    font-size: 42px;
+}
+
+
+
+#need .select-style{
+    border: 0px solid !important;
+    border-bottom: 1px solid #2C2A29 !important;
+}
+#need .select-style select {
+    color: #2C2A29;
+    font-weight: 400 !important;
+    padding: 8px 30px 8px 8px;
+    width: 100%;
+    border: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background: #ffffffb5;
+    background-image: none;
+    -webkit-appearance: none;
+    border: 0px solid #2C2A29;
+    border-radius: 0px;
+}
+
+#need .select-style {
+    background: url('/wps/wcm/connect/ad6e6fdf-c18f-4169-8aec-4751fe3d98ef/flecha-abajo-negra.png?MOD=AJPERES') no-repeat 97% 51% !important;
+}
+.lupa{
+    margin-left: 28px;
+}
+.slick-prev:hover, .slick-prev:focus, .slick-next:hover, .slick-next:focus {background: #ffca00 !important;}
+.slick-next{
+display: block;
+background: #ffca00;
+width: 40px;
+height: 40px;
+margin-right: -27px;
+border-radius: 50%;
+
+}
+
+
+.slick-next::before {
+content: url(/wps/wcm/connect/9b0db2b1-d8a7-4209-b189-8007f9d596ea/arrow.svg?MOD=AJPERES);
+top: 9px;
+left: 9px;
+position: absolute;
+
+}
+
+.slick-prev{
+display: block;
+background: #ffca00;
+width: 40px;
+height: 40px;
+margin-left: -27px;
+border-radius: 50%;
+z-index: 99;
+
+}
+
+@media screen and (max-width: 640px){
+   #need #need-answer .need-slide {
+      padding: 0px;
+   }
+}
+
+.slick-prev::before {
+content: url(/wps/wcm/connect/9b0db2b1-d8a7-4209-b189-8007f9d596ea/arrow.svg?MOD=AJPERES);
+top: 6px;
+transform: rotate(180deg);
+left: 9px;
+position: absolute;
+}
+
+.borde{
+    border-left: 2px solid #ccc4c4;
+    margin: 20px 0;
+}
+
+.cont-buscador {
+    text-align: center;
+    margin-bottom: 57px;
+}
+
+#need label {
+    color: #2C2A29;
+    font-size: 18px;
+    padding-left: 0%;
+    margin-top: 6px;
+}
+
+button.btn.btnPrincipal.desplegar {
+    border: 2px solid;
+    width: 356px;
+    display: block;
+    margin: auto;
+}
+
+div#need-answer {
+    width: 100%;
+}
+
+.breadcrumbs {
+    display: none;
+}
+
+.container-fluid {
+    max-width: 1600px !important;
+    margin: auto;
+}
+
+@media screen and (max-width: 700px) {
+.cont-buscador {
+    padding: 1rem;
+padding-bottom: 2rem;
+}
+.container-fluid.relative h3 {
+    padding-top: 20px;
+}
+
+section.header.pt-4.pb-1 .swiper-button-next, .swiper-button-prev {
+    position: absolute;
+    top: 68%;
+}
+
+section.header.pt-4.pb-1 .swiper-button-next, .swiper-container-rtl .swiper-button-prev {
+    right: 1px;
+    left: auto;
+}
+
+}
+
+button.btn.btnPrincipal.desplegar:focus {
+    outline: 0;
+    box-shadow: 0 0 0 1px rgb(0 0 0);
+    color: #222;
+}
+
+div#need-answer slick.ng-isolate-scope.slick-initialized.slick-slider {
+    width: 100%;
+}
+
+div#need-answer .row.ng-scope p {
+    margin-top: -10px !important;
+}
+
+svg.centrar {
+    margin-top: 31px;
+    margin-bottom: 15px;
+}
+
+#need #need-answer .need-slide img {
+    -webkit-box-shadow: 3px 0px 20px #888888;
+    box-shadow: 0px 0px 0px #888888;
+    filter: grayscale(0%);
+    height: 100%;
+    left: 0;
+    object-fit: cover;
+    opacity: 1;
+    position: initial;
+    top: 0;
+    width: 102%;
+    z-index: 1;
+    height: 215px;
+    object-position: 50% 10%;
+}
+.need-slide-info2 {
+    padding: 15px;
+}
+
+#need #need-answer .need-slide {
+    background: #F4F4F4;
+}
+
+h2.ng-binding {
+    font-size: 24px !important;
+}
+
+.need-slide-info2 .ng-binding {
+    color: #2C2A29 !important;
+}
+
+#need #need-answer {
+    background-color: #ffffff !important;
+    box-shadow: 0px 0px 0px #d1d3d4  !important;
+}
+
+a.btnVerMas.btnPrincipal.btn.btn-transparent {
+    color: #222 !important;
+    text-align: center;
+}
+
+#need #need-answer .need-slide .need-slide-info h2 {
+    color: #2C2A29 !important;
+}
+
+.ng-binding ul li {
+    color: #2C2A29 !important;
+}
+
+.ng-binding ul li:before {
+    color: #2C2A29 !important;
+}
+
+#need #need-answer .need-slide .need-slide-info .btnPrincipal {
+    margin-top: 0px !important;
+    margin-bottom: 20px;
+    margin-left: 27px;
+}
+
+.btnPrincipal:before {
+    margin-right: 0px !important;
+}
+
+#need #need-answer .need-slide .need-slide-info {
+    padding: 16px;
+}
+
+.col.align-items-end.d-flex {
+    min-height: 235px;
+    display: flex !important;
+    align-items: center !important;
+}
+</style>
+<div ng-app="yo-necesito" ng-controller="yoNecesitoController" class="ng-scope">
+        <section id="need">
+            <div class="container-fluid relative" style="margin-top: 20px; background: #FFFFFF; max-width: 990px !important;">
+                    <div class="col-md-12" style="box-shadow: 0px 3px 12px rgb(0 0 0 / 10%)">
+                        <h3 style="margin-top:50px; margin-bottom: 45px; text-align: center;">Encuentra aquí soluciones para tu empresa</h3>
+                               <div class="col-md-12">
+                                <form id="simuForm" role="form" action="" class="ng-pristine ng-valid">
+                                        <div class="form-group col-md-6">
+                                                <div class="col-md-4 col-md-push-1">
+
+                                                <label for="slc-need">Yo necesito</label>
+                                                </div>
+                                                <div class="row">
+                                                <div class="col-md-12">
+                                                <div class="select-style">
+                                                    <select id="slc-need" ng-model="filter.necesito" ng-change="filter.changeNeed()" class="ng-pristine ng-valid">
+                                                        <option value="" disabled="" selected="">Selecciona una opción</option>
+                                                        <!-- ngRepeat: necesito in data.necesito --><option value="{&quot;id&quot;:&quot;f4271799-2803-9e7e-9740-f4533d62ac0b&quot;,&quot;name&quot;:&quot;Adquirir equipos y activos&quot;}" ng-repeat="necesito in data.necesito" class="ng-binding ng-scope">Adquirir equipos y activos</option><!-- end ngRepeat: necesito in data.necesito --><option value="{&quot;id&quot;:&quot;dd31266f-d679-c2bc-3d1f-76d241266c77&quot;,&quot;name&quot;:&quot;Ahorrar o Invertir&quot;}" ng-repeat="necesito in data.necesito" class="ng-binding ng-scope">Ahorrar o Invertir</option><!-- end ngRepeat: necesito in data.necesito --><option value="{&quot;id&quot;:&quot;7c9f9352-35b8-1333-e75c-432b1516e7ac&quot;,&quot;name&quot;:&quot;Comercio Internacional&quot;}" ng-repeat="necesito in data.necesito" class="ng-binding ng-scope">Comercio Internacional</option><!-- end ngRepeat: necesito in data.necesito --><option value="{&quot;id&quot;:&quot;e16bef19-e462-a764-918b-46dfb3646c43&quot;,&quot;name&quot;:&quot;Manejar el día a día de mi negocio&quot;}" ng-repeat="necesito in data.necesito" class="ng-binding ng-scope">Manejar el día a día de mi negocio</option><!-- end ngRepeat: necesito in data.necesito --><option value="{&quot;id&quot;:&quot;99118db6-cc07-a8c4-2e61-037967204f66&quot;,&quot;name&quot;:&quot;Préstamos /Créditos&quot;}" ng-repeat="necesito in data.necesito" class="ng-binding ng-scope">Préstamos /Créditos</option><!-- end ngRepeat: necesito in data.necesito --><option value="{&quot;id&quot;:&quot;931916ec-f197-353b-a6e6-be46a70d631a&quot;,&quot;name&quot;:&quot;Seguros&quot;}" ng-repeat="necesito in data.necesito" class="ng-binding ng-scope">Seguros</option><!-- end ngRepeat: necesito in data.necesito --><option value="{&quot;id&quot;:&quot;86610c89-0045-a079-9825-184c874d31c7&quot;,&quot;name&quot;:&quot;Tarjetas de crédito&quot;}" ng-repeat="necesito in data.necesito" class="ng-binding ng-scope">Tarjetas de crédito</option><!-- end ngRepeat: necesito in data.necesito -->
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group col-md-6">
+                                            <div class="col-md-3 col-md-push-1">
+                                                <label for="slc-for">Para</label>
+                                            </div>
+                                            <div class="row">
+                                            <div class="col-md-12">
+                                                <div class="select-style">
+                                                    <select id="slc-for" ng-model="filter.para" ng-disabled="!data.para || !data.para.length" ng-options="para.name for para in data.para track by para.id" class="ng-pristine ng-valid" disabled="disabled"><option value="" selected="" class="">Selecciona una opción</option></select>
+                                                </div>
+                                             <div>&nbsp;</div>
+                                            </div>
+                                        </div>
+
+                                        </div>
+                                        <div class="cont-buscador">
+                                            <button type="submit" ng-href="#need-answer" class="btn btnPrincipal desplegar btn btn-yellow" ng-disabled="!filter.necesito || !filter.para" ng-click="filter.show()" href="#need-answer" disabled="disabled">
+                                                Muéstrame <svg class="ml-3" width="19" height="16" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.293 17.092L10 17.799L17.485 10.314C17.863 9.936 18.071 9.434 18.071 8.9C18.071 8.365 17.863 7.863 17.485 7.486L10 0L9.293 0.707L16.778 8.193C16.8407 8.25568 16.894 8.32507 16.9373 8.3996H0V9.3996H16.9376C16.8943 9.47446 16.8408 9.54416 16.778 9.607L9.293 17.092Z" fill="#2C2A29"></path>
+                                                  </svg>
+                                            </button>
+                                        </div>
+                                </form>
+
+                            </div>                              
+                        
+                    </div>
+               
+
+                <!-- ngIf: filter.necesito && filter.para && (filtered.data && !filtered.data.length) -->
+
+                <!-- ngIf: filtered.data.length -->
+            </div>
+        </section>
+</div>
+
+
+<!--Plugins-->
+        <!-- Angular Slick ( https://github.com/vasyabigi/angular-slick ) -->
+        <script src="/wps/wcm/connect/e8f503b2-8bde-43a8-a58a-8241173eff10/slick.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-e8f503b2-8bde-43a8-a58a-8241173eff10-ny-6j0q"></script>
+        <script src="/wps/wcm/connect/18f24219-7908-4503-afe8-b963ae47d129/angular-slick.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-18f24219-7908-4503-afe8-b963ae47d129-ny-6j0q"></script>
+
+        <!--app-->
+        <script src="/wps/wcm/connect/629b60ab-65e1-43ea-856f-de909e46e809/app.js?MOD=AJPERES" type="text/javascript"></script>
+        <script>
+        
+        $(document).ready(function() {
+$('.desplegar').click(function(e){
+    e.preventDefault();   //evitar el eventos del enlace normal
+    var strAncla=$(this).attr('ng-href'); //id del ancla
+      $('body,html').stop(true,true).animate({        
+        scrollTop: $(strAncla).offset().top
+      },1000);
+  });
+});
+        </script>
+                        
+                    
+                
+                
+            
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_2G9I1K41N8AD50QDBM0JIMJD22"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <section class="forYou">
+  <div class="col-12 px-0">
+    <div class="container-fluid">
+      <div class="title-section text-center py-3">
+        <h2>Pensando en ti te recomendamos</h2>
+      </div>
+      <div class="row">
+        <div class="cont-update col-12 col-md-12 col-lg-6 px-0 pb-4 align-items-end d-lg-flex">
+          <div class="col-12 py-3">
+            <div class="swiper-container swiperUpdate swiper-container-initialized swiper-container-horizontal">
+              <div class="swiper-wrapper" id="swiper-wrapper-d6333c58396c2cac" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-660px, 0px, 0px);">
+                <div class="swiper-slide swiper-slide-prev" role="group" aria-label="1 / 3" style="width: 645px; margin-right: 15px;">
+  <div class="text-slide mx-lg-auto mx-md-auto mb-5">
+    <h3>La financiación apalanca el crecimiento empresarial de las mujeres</h3>
+    <p dir="ltr">&nbsp;</p>
+
+<p dir="ltr">El emprendimiento femenino cuenta con productos financieros diseñados para impulsar su crecimiento y sostenibilidad. Aquí te contamos por qué las mujeres empresarias deben perder el miedo al crédito.</p>
+
+    <div class="button-slide"><a class="btn btn-transparent-white" href="/wps/portal/negocios/actualizate/emprendimiento/creditos-y-opciones-financiacion-mujeres-empresarias" target="_blank" rel="noopener noreferrer">Descubre más
+        <svg class="ml-3" width="19" height="16" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M9.293 17.092L10 17.799L17.485 10.314C17.863 9.936 18.071 9.434 18.071 8.9C18.071 8.365 17.863 7.863 17.485 7.486L10 0L9.293 0.707L16.778 8.193C16.8407 8.25568 16.894 8.32507 16.9373 8.3996H0V9.3996H16.9376C16.8943 9.47446 16.8408 9.54416 16.778 9.607L9.293 17.092Z" fill="#ffffff"></path>
+        </svg></a></div>
+  </div>
+</div><div class="swiper-slide swiper-slide-active" role="group" aria-label="2 / 3" style="width: 645px; margin-right: 15px;">
+  <div class="text-slide mx-lg-auto mx-md-auto mb-5">
+    <h3>[Vídeo] Tendencias innovadoras del eCommerce en Colombia</h3>
+    <p dir="ltr">&nbsp;</p>
+
+<p dir="ltr">Estamos en un momento de gran auge de las ventas digitales, los consumidores buscan experiencias mixtas entre lo presencial y lo digital y el gran reto de las empresas en el comercio electrónico es mantener la confianza y las ventas. Descubra las tendencias más relevantes del eCommerce en Colombia.</p>
+
+    <div class="button-slide"><a class="btn btn-transparent-white" href="/wps/portal/negocios/actualizate/mercadeo-y-ventas/tendencias-ecommerce-para-pymes-colombia" target="_blank" rel="noopener noreferrer">Descubre más
+        <svg class="ml-3" width="19" height="16" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M9.293 17.092L10 17.799L17.485 10.314C17.863 9.936 18.071 9.434 18.071 8.9C18.071 8.365 17.863 7.863 17.485 7.486L10 0L9.293 0.707L16.778 8.193C16.8407 8.25568 16.894 8.32507 16.9373 8.3996H0V9.3996H16.9376C16.8943 9.47446 16.8408 9.54416 16.778 9.607L9.293 17.092Z" fill="#ffffff"></path>
+        </svg></a></div>
+  </div>
+</div><div class="swiper-slide swiper-slide-next" role="group" aria-label="3 / 3" style="width: 645px; margin-right: 15px;">
+  <div class="text-slide mx-lg-auto mx-md-auto mb-5">
+    <h3>Nómina Electrónica en Colombia: todo lo que necesitas saber</h3>
+    <p dir="ltr">&nbsp;</p>
+
+<p dir="ltr">A partir del segundo semestre de 2021, todas las empresas en Colombia que cuenten con al menos un empleado en nómina deben implementar el mecanismo de nómina electrónica. Conoce todos los requisitos para implementarla y mucho más sobre la Resolución 000013 de febrero 11 de 2021, que reglamenta este tema.</p>
+
+    <div class="button-slide"><a class="btn btn-transparent-white" href="/wps/portal/negocios/actualizate/legal-y-tributario/resolucion-nomina-electronica-2021" target="_blank" rel="noopener noreferrer">DESCUBRE MÁS
+        <svg class="ml-3" width="19" height="16" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M9.293 17.092L10 17.799L17.485 10.314C17.863 9.936 18.071 9.434 18.071 8.9C18.071 8.365 17.863 7.863 17.485 7.486L10 0L9.293 0.707L16.778 8.193C16.8407 8.25568 16.894 8.32507 16.9373 8.3996H0V9.3996H16.9376C16.8943 9.47446 16.8408 9.54416 16.778 9.607L9.293 17.092Z" fill="#ffffff"></path>
+        </svg></a></div>
+  </div>
+</div>
+              </div>
+              <div class="swiper-pagination paginationUpdate swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span></div>
+              <div class="buttonsUpdate">
+                <div class="swiper-button-next bu-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-d6333c58396c2cac" aria-disabled="false"></div>
+                <div class="swiper-button-prev bu-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-d6333c58396c2cac" aria-disabled="false"></div>
+              </div>
+            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+          </div>
+        </div>
+        <div class="cont-other col-12 col-md-12 col-lg-6">
+          <div class="row row-cols-1 row-cols-md-2 row-cols-lg-2">
+            <div class="col cat-green align-items-end d-flex">
+  <div class="text-section py-3 mt-0 mt-md-5 mt-lg-5">
+    <h3>Microcrédito</h3>
+    <p dir="ltr">Si eres independiente o microempresario y quieres impulsar tu negocio, esta opción de financiación es para ti.</p>
+
+    <div class="button-section"><a class="btn btn-transparent" href="/wps/portal/negocios/productos-financieros/microcredito" target="_blank" rel="noopener noreferrer">DESCUBRE MÁS
+        <svg class="ml-3" width="19" height="16" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M9.293 17.092L10 17.799L17.485 10.314C17.863 9.936 18.071 9.434 18.071 8.9C18.071 8.365 17.863 7.863 17.485 7.486L10 0L9.293 0.707L16.778 8.193C16.8407 8.25568 16.894 8.32507 16.9373 8.3996H0V9.3996H16.9376C16.8943 9.47446 16.8408 9.54416 16.778 9.607L9.293 17.092Z" fill="#2C2A29"></path>
+        </svg></a></div>
+  </div>
+</div><div class="col cat-gray align-items-end d-flex">
+  <div class="text-section py-3 mt-0 mt-md-5 mt-lg-5">
+    <h3>Tarjetas Bancolombia para tu negocio</h3>
+    <p dir="ltr">Expande tu empresa comprando en el exterior y pagando los viajes nacionales e internacionales con tu Tarjeta Bancolombia.</p>
+
+    <div class="button-section"><a class="btn btn-transparent" href="https://www.grupobancolombia.com/wps/portal/empresas/productos-servicios/tarjetas/tarjeta-credito-mastercard-negocios" target="_blank" rel="noopener noreferrer">DESCUBRE MÁS
+        <svg class="ml-3" width="19" height="16" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M9.293 17.092L10 17.799L17.485 10.314C17.863 9.936 18.071 9.434 18.071 8.9C18.071 8.365 17.863 7.863 17.485 7.486L10 0L9.293 0.707L16.778 8.193C16.8407 8.25568 16.894 8.32507 16.9373 8.3996H0V9.3996H16.9376C16.8943 9.47446 16.8408 9.54416 16.778 9.607L9.293 17.092Z" fill="#2C2A29"></path>
+        </svg></a></div>
+  </div>
+</div><div class="col cat-white align-items-end d-flex">
+  <div class="text-section py-3 mt-0 mt-md-5 mt-lg-5">
+    <h3>Calculadora de cupo de crédito</h3>
+    <p dir="ltr">Calcula el cupo de crédito que puedes solicitar para tu empresa, según tus necesidades y capacidad de pago.</p>
+
+    <div class="button-section"><a class="btn btn-transparent" href="/wps/portal/negocios/herramientas/calcular-cupo-de-credito" target="_blank" rel="noopener noreferrer">DESCUBRE MÁS
+        <svg class="ml-3" width="19" height="16" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M9.293 17.092L10 17.799L17.485 10.314C17.863 9.936 18.071 9.434 18.071 8.9C18.071 8.365 17.863 7.863 17.485 7.486L10 0L9.293 0.707L16.778 8.193C16.8407 8.25568 16.894 8.32507 16.9373 8.3996H0V9.3996H16.9376C16.8943 9.47446 16.8408 9.54416 16.778 9.607L9.293 17.092Z" fill="#2C2A29"></path>
+        </svg></a></div>
+  </div>
+</div><div class="col cat-yellow align-items-end d-flex">
+  <div class="text-section py-3 mt-0 mt-md-5 mt-lg-5">
+    <h3>Beneficios</h3>
+    <p dir="ltr">Logra los objetivos de tu negocio con la asesoría especializada, ofertas preferenciales, soporte y mucho más que te ofrecen nuestros aliados.</p>
+
+    <div class="button-section"><a class="btn btn-transparent" href="/wps/portal/negocios/beneficios" target="_blank" rel="noopener noreferrer">DESCUBRE MÁS
+        <svg class="ml-3" width="19" height="16" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M9.293 17.092L10 17.799L17.485 10.314C17.863 9.936 18.071 9.434 18.071 8.9C18.071 8.365 17.863 7.863 17.485 7.486L10 0L9.293 0.707L16.778 8.193C16.8407 8.25568 16.894 8.32507 16.9373 8.3996H0V9.3996H16.9376C16.8943 9.47446 16.8408 9.54416 16.778 9.607L9.293 17.092Z" fill="#2C2A29"></path>
+        </svg></a></div>
+  </div>
+</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_2G9I1K41N8AD50QDBM0JIMJD27"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <section class="pageRelated">
+  <div class="col-12 px-0">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="cont-img col-12 col-md-5 col-lg-6 px-0">
+          <figure class="image-section m-0"><img class="img-fluid w-100" src="/wps/wcm/connect/bd38ae32-982a-4bc3-bc05-5d369ba719f1/negocios-img-02.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-bd38ae32-982a-4bc3-bc05-5d369ba719f1-nELjz3m" alt=""></figure>
+        </div>
+        <div class="cont-info col-12 col-md-7 col-lg-6 d-flex align-items-center">
+          <div class="text-section mx-lg-auto mx-md-auto">
+            <h2>Un cambio que viene desde adentro.
+</h2>
+            <p></p><p dir="ltr">Sabes que evolucionar requiere valentía, somos conscientes que no es algo que se logra de la noche a la mañana, pero queremos hacerlo y estamos comprometidos a mejorar todos los días.</p>
+<p></p>
+            <div class="button-section"><a class="btn btn-white" href="https://www.grupobancolombia.com/centro-de-ayuda/evolucion-bancolombia" target="_blank" rel="noopener noreferrer">Conoce más 
+                <svg class="ml-3" width="19" height="16" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.293 17.092L10 17.799L17.485 10.314C17.863 9.936 18.071 9.434 18.071 8.9C18.071 8.365 17.863 7.863 17.485 7.486L10 0L9.293 0.707L16.778 8.193C16.8407 8.25568 16.894 8.32507 16.9373 8.3996H0V9.3996H16.9376C16.8943 9.47446 16.8408 9.54416 16.778 9.607L9.293 17.092Z" fill="#2C2A29"></path>
+                </svg></a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script src="/wps/wcm/connect/3ae69409-e8e9-47f4-a75d-6b07972b0138/swiper-bundle.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-3ae69409-e8e9-47f4-a75d-6b07972b0138-nzshiPj"></script>
+<script src="/wps/wcm/connect/a7850c1a-feeb-42bf-bee6-d6b90d3e519d/main.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-a7850c1a-feeb-42bf-bee6-d6b90d3e519d-nzshiJk"></script>
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_2G9I1K41N8AD50QDBM0JIMJDI4"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <section class="findOut text-center py-5">
+  <div class="container">
+    <div class="row">
+      <div class="title-section mx-auto">
+        <svg class="mb-3" width="68" height="51" viewBox="0 0 68 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M3.99984 6.12656V43.3971L22.9337 25.0142L3.99984 6.12656ZM7.33317 47.0033C6.69014 47.0033 6.08878 46.8203 5.57873 46.5038L25.2892 27.364L33.9998 36.0534L41.9175 28.1551L61.2607 46.9503C61.0678 46.9851 60.8692 47.0033 60.6665 47.0033H7.33317ZM63.8096 44.7852C63.9328 44.4387 63.9998 44.066 63.9998 43.6781V6.12656L44.2746 25.8037L63.8096 44.7852ZM6.35953 3.77564L33.9998 31.3516L61.6402 3.77564H6.35953ZM7.33317 50.3285H60.6665C64.3432 50.3285 67.3332 47.3458 67.3332 43.6781V0.450439H0.666504V43.6781C0.666504 47.3458 3.6565 50.3285 7.33317 50.3285Z" fill="#2C2A29"></path>
+        </svg>
+        <h1>Entérate de todo lo que ocurre en el mundo de los negocios, suscríbete a nuestro boletín mensual.</h1>
+        <p dir="ltr">Recibe información semanal, Temas de interés y lo último en tendencias.</p>
+
+        <div class="button-section"><a class="btn btn-yellow" href="/wps/portal/negocios/actualizate/suscribete-a-nuestro-boletin" target="_blank" rel="noopener noreferrer">INSCRIBIRME
+            <svg class="ml-3" width="19" height="16" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M9.293 17.092L10 17.799L17.485 10.314C17.863 9.936 18.071 9.434 18.071 8.9C18.071 8.365 17.863 7.863 17.485 7.486L10 0L9.293 0.707L16.778 8.193C16.8407 8.25568 16.894 8.32507 16.9373 8.3996H0V9.3996H16.9376C16.8943 9.47446 16.8408 9.54416 16.778 9.607L9.293 17.092Z" fill="#2C2A29"></path>
+            </svg></a></div>
+      </div>
+    </div>
+  </div>
+</section>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_2G9I1K41NO5EB0QTJCH5LF1LJ0"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <link rel="stylesheet" href="/wps/wcm/connect/5cb9a1a1-fb44-47da-877c-e3d667a197ac/paginator.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-5cb9a1a1-fb44-47da-877c-e3d667a197ac-ny-6j0q">
+<link rel="stylesheet" href="/wps/wcm/connect/e991a577-9931-4922-8895-2fd5715fe746/modal-pyme.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-e991a577-9931-4922-8895-2fd5715fe746-ny-6j0q">
+<!--<link rel="stylesheet" href="/wps/wcm/connect/2999cfb6-af33-468c-b5ea-ba483a412372/imagen-fit.css?MOD=AJPERES">-->
+<!--<link rel="stylesheet" href="/wps/wcm/connect/0c35c96a-d530-4094-beca-ae6167287c72/owl.carousel.min.css?MOD=AJPERES" type="text/css">-->
+<style>
+    a.btn.btn-transparent:focus {
+        color: #000 !important;
+    }
+
+    a.enlaces-social img {
+        margin-bottom: 15px !important;
+    }
+
+    .aaa {}
+
+    section.contactUs.py-5 img.image-icon.d-flex {
+        max-width: 36px;
+        margin: auto;
+        display: block;
+    }
+
+    footer {
+        margin-bottom: -30px;
+    }
+
+    section.contactUs.py-5 .description-text {
+        text-align: center;
+    }
+
+    div#main-menu .btnSecundario:hover {
+        background: #2c2a29;
+        border-color: #2c2a29;
+    }
+
+    div#main-menu .btnSecundario:hover img {
+        -webkit-filter: invert(100%);
+        filter: invert(100%);
+    }
+
+    @media (max-width: 1000px) {
+        .row.buttons-contact.d-flex.justify-content-center.mb-3 {
+            max-width: 500px;
+            margin: auto;
+        }
+    }
+
+
+    @media (min-width: 1050px) {
+        .col-lg-2 {
+            width: 25% !important;
+            flex: 0 0 25%;
+            max-width: 25% !important;
+        }
+    }
+
+    section.contactUs .container.mx-auto {
+        max-width: 900px;
+    }
+
+    section.contactUs.py-5 h3,
+    section.contactUs.py-5 p,
+    section.contactUs.py-5 .icon-text.col-6.col-lg-2 a {
+        color: #2C2A29 !important;
+    }
+
+    .container.mx-auto {
+        background: #fff !important;
+        background-color: #fff !important;
+        padding-top: 40px;
+        padding-bottom: 60px;
+    }
+
+    .contactUs .title-section {
+        margin-bottom: 25px;
+    }
+
+    section.contactUs.py-5 .button-lines.text-center.py-3 {
+        padding-top: 20px;
+    }
+
+    #personasNivel2 {
+        display: block !important
+    }
+
+    .menu__link:focus,
+    .menu__link:hover,
+    .menu__link[data-submenu]:hover::after {
+        color: #ffd200 !important
+    }
+
+    .menu__wrap ul .menu__item:nth-of-type(8) ul .menu__item:nth-of-type(4) {
+        display: none;
+    }
+
+    .links-f {
+        background: url(/wps/wcm/connect/3d4a68d6-4a65-4b1b-a56f-8c1d3b32a75b/superintendencia.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-3d4a68d6-4a65-4b1b-a56f-8c1d3b32a75b-l6SXgBc) 2px 36px no-repeat scroll;
+    }
+
+    .home-autopauta-derecha-txt {
+        position: relative;
+        background-color: #f2f2f2
+    }
+
+    .home-autopauta-derecha-txt li a {
+        text-decoration: underline
+    }
+
+    .need-slide-info2 ul {
+        list-style: disc;
+        padding-left: 25px;
+    }
+
+    .btnPrincipal img {
+        width: 15px;
+        margin-top: -4px;
+    }
+
+    .social-mob {
+        padding: 20px;
+    }
+
+    @media screen and (min-width: 768px) {
+        .home-autopauta-derecha-txt .fondo {
+            position: absolute;
+            width: 100%;
+            height: 450px;
+            background-size: cover;
+            background-position: top center;
+        }
+    }
+
+
+    input.btnPrincipal {
+        background: #808080;
+        border: 0px solid;
+        color: #2c2a29;
+    }
+
+    @media screen and (max-width: 767px) {
+        .home-autopauta-derecha-txt .fondo {
+            min-height: 450px;
+            width: 100%;
+            background-size: cover;
+            background-position: 100%
+        }
+
+        input.btnPrincipal {
+            margin-right: -118px;
+            width: 144%;
+            background: #808080;
+            border: 0px solid;
+            color: #2c2a29;
+        }
+
+
+    }
+
+    @media screen and (max-width: 360px) {
+        .home-autopauta-derecha-txt .fondo {
+            min-height: 400px;
+            width: 100%
+        }
+    }
+
+    .home-autopauta-derecha-txt .contenido p a.btn-primary {
+        text-decoration: none !important
+    }
+
+    .home-autopauta-derecha-txt .contenido img {
+        margin: 20px 0
+    }
+
+    @media screen and (min-width: 768px) {
+        .home-autopauta-derecha-txt .contenido img {
+            margin: 24px 0 0 34px
+        }
+    }
+
+    .home-autopauta-derecha-txt .contenido .cont {
+        display: table-cell;
+        height: 450px;
+        padding-top: 52px;
+        vertical-align: middle
+    }
+
+    @media screen and (max-width: 767px) {
+        .home-autopauta-derecha-txt .contenido .cont {
+            padding-top: 0;
+            height: auto
+        }
+    }
+
+    .home-autopauta-derecha-txt .contenido .cont h2 {
+        color: #00448c;
+        margin-left: 34px
+    }
+
+    @media screen and (max-width: 767px) {
+        .home-autopauta-derecha-txt .contenido .cont h2 {
+            margin-left: 0
+        }
+    }
+
+    @media screen and (min-width: 768px) {
+        .home-autopauta-derecha-txt .contenido {
+            width: 100%;
+            top: 0
+        }
+    }
+
+    .buttonHeader .menu-transacciones {
+        background-color: #ffffff;
+    }
+
+    .buttonHeader .menu-transacciones ul li a,
+    .buttonHeader .menu-transacciones .conocer a {
+        color: #222;
+        background-image: none !important;
+        padding-left: 0px !important;
+    }
+
+
+    .buttonHeader .menu-transacciones ul li {
+        margin-top: 5px;
+        text-align: left;
+        padding-left: 10px !important;
+    }
+
+    .buttonHeader .menu-transacciones {
+        width: 290px !important;
+        box-shadow: 0px 1px 8px rgb(0 0 0 / 10%);
+        border-radius: 23px !important;
+    }
+
+    .home-autopauta-derecha-txt .contenido p {
+        margin: 20px 0
+    }
+
+    @media screen and (min-width: 768px) {
+        .home-autopauta-derecha-txt .contenido p {
+            margin: 24px 0 24px 34px
+        }
+    }
+
+    .home-autopauta-derecha-txt .contenido p .more {
+        display: block
+    }
+
+    .buttonHeader .menu-transacciones .cerrar a {
+        color: #222 !important;
+    }
+
+    .buttonHeader .menu-transacciones .cerrar a span {
+        border: 1px solid #222 !important;
+    }
+
+    .buttonHeader .menu-transacciones .conocer {
+        padding-top: 25px;
+        border-top: 1px solid #fff;
+        color: #fff;
+        padding-left: 80px;
+        min-height: 65px;
+    }
+
+    .home-autopauta-derecha-txt .contenido ul.check-list {
+        padding-left: 57px
+    }
+
+    .top-menu .container-fluid .row {
+        background: #fff;
+        z-index: 9999;
+        width: 80%;
+        left: -80px;
+        padding: 10px 30px 30px;
+    }
+
+    .top-menu .container-fluid .row h2 {
+        color: #444;
+        font-size: 18px;
+        font-weight: bold;
+        padding: 17px 0 10px;
+    }
+
+    .top-menu .container-fluid .row a {
+        color: #444;
+        text-decoration: none;
+    }
+
+    .top-nav #menu-filiales,
+    li.dropdown {
+        background: url(wps/wcm/connect/9dae6a7d-7d8c-4dad-98b7-18da56a25468/flecha-abajo-blanca.png?MOD=AJPERES) right center no-repeat !important;
+    }
+
+    .dropdown-toggle::after {
+        border-top: 0em solid !important;
+    }
+
+    @font-face {
+        font-family: "CIBFont Sans";
+        src: url("/wps/contenthandler/!ut/p/digest!-5nw0XpbZQ97ioYjXZvcgQ/?uri=dav:fs-type1/themes/ThemesFilialesNew/fonts/CibFonts/CIBFontSans-Bold.woff2");
+        font-weight: bold;
+        font-style: normal;
+        font-display: swap
+    }
+
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: CIBFont Sans !important;
+    }
+
+    @font-face {
+        font-family: "CIBFont Sans";
+        src: url("/wps/contenthandler/!ut/p/digest!-5nw0XpbZQ97ioYjXZvcgQ/?uri=dav:fs-type1/themes/ThemesFilialesNew/fonts/CibFonts/CIBFontSans-Bold.woff2");
+        font-weight: bold;
+        font-style: normal;
+        font-display: swap
+    }
+
+    /* cyrillic-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OX-hpOqc.woff2) format('woff2');
+        unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    }
+
+    /* cyrillic */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OVuhpOqc.woff2) format('woff2');
+        unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+
+    /* greek-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OXuhpOqc.woff2) format('woff2');
+        unicode-range: U+1F00-1FFF;
+    }
+
+    /* greek */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OUehpOqc.woff2) format('woff2');
+        unicode-range: U+0370-03FF;
+    }
+
+    /* vietnamese */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OXehpOqc.woff2) format('woff2');
+        unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+    }
+
+    /* latin-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OXOhpOqc.woff2) format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+
+    /* latin */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OUuhp.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+
+    /* cyrillic-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFWJ0bbck.woff2) format('woff2');
+        unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    }
+
+    /* cyrillic */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFUZ0bbck.woff2) format('woff2');
+        unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+
+    /* greek-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFWZ0bbck.woff2) format('woff2');
+        unicode-range: U+1F00-1FFF;
+    }
+
+    /* greek */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVp0bbck.woff2) format('woff2');
+        unicode-range: U+0370-03FF;
+    }
+
+    /* vietnamese */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFWp0bbck.woff2) format('woff2');
+        unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+    }
+
+    /* latin-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFW50bbck.woff2) format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+
+    /* latin */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0b.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+
+    /* cyrillic-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 600;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2) format('woff2');
+        unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    }
+
+    /* cyrillic */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 600;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2) format('woff2');
+        unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+
+    /* greek-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 600;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2) format('woff2');
+        unicode-range: U+1F00-1FFF;
+    }
+
+    /* greek */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 600;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2) format('woff2');
+        unicode-range: U+0370-03FF;
+    }
+
+    /* vietnamese */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 600;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2) format('woff2');
+        unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+    }
+
+    /* latin-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 600;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2) format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+
+    /* latin */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 600;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOUuhp.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+
+    /* cyrillic-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 700;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOX-hpOqc.woff2) format('woff2');
+        unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    }
+
+    /* cyrillic */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 700;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOVuhpOqc.woff2) format('woff2');
+        unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+
+    /* greek-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 700;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOXuhpOqc.woff2) format('woff2');
+        unicode-range: U+1F00-1FFF;
+    }
+
+    /* greek */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 700;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOUehpOqc.woff2) format('woff2');
+        unicode-range: U+0370-03FF;
+    }
+
+    /* vietnamese */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 700;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOXehpOqc.woff2) format('woff2');
+        unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+    }
+
+    /* latin-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 700;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOXOhpOqc.woff2) format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+
+    /* latin */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 700;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOUuhp.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+
+    /* cyrillic-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 800;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN8rsOX-hpOqc.woff2) format('woff2');
+        unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    }
+
+    /* cyrillic */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 800;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN8rsOVuhpOqc.woff2) format('woff2');
+        unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+
+    /* greek-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 800;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN8rsOXuhpOqc.woff2) format('woff2');
+        unicode-range: U+1F00-1FFF;
+    }
+
+    /* greek */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 800;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN8rsOUehpOqc.woff2) format('woff2');
+        unicode-range: U+0370-03FF;
+    }
+
+    /* vietnamese */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 800;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN8rsOXehpOqc.woff2) format('woff2');
+        unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+    }
+
+    /* latin-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 800;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN8rsOXOhpOqc.woff2) format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+
+    /* latin */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 800;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN8rsOUuhp.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+
+    p,
+    a,
+    li,
+    th {
+        font-family: 'OPEN SANS';
+    }
+
+    #menu-1nivel li a {
+        font-family: 'OPEN SANS' !important;
+    }
+
+    .header .swiper-container .swiper-button-prev:after {
+        width: auto;
+        height: auto;
+        margin-top: -14px;
+    }
+
+    .header .swiper-container .swiper-button-next:after,
+    .forYou .cont-update .swiper-container .swiper-button-prev:after,
+    .forYou .cont-update .swiper-container .swiper-button-next:after {
+        width: auto;
+        height: auto;
+        margin-top: -14px;
+    }
+
+    .contactUs .button-lines.text-center.py-3 {
+        margin-bottom: 0px;
+    }
+
+    li#linkPymes {
+        background: #fff !important;
+    }
+
+    li#linkPymes a {
+        color: #2c2a29 !important;
+    }
+
+    .contactUs .button-lines.text-center.py-3 {
+        margin-bottom: 0px;
+    }
+
+    a.btn.btn-white:focus {
+        color: #000;
+    }
+
+    form.col-xs-12.col-sm-8.busqueda {
+        margin-top: 50px;
+    }
+
+    form#simuForm {
+        padding-bottom: 1px !important;
+    }
+
+    section#need .col-md-12 {
+        padding-top: 1px;
+    }
+</style>
+
+
+
+<section class="contactUs py-5">
+    <div class="container mx-auto">
+        <div class="title-section text-center">
+            <h3>¿Aun tienes dudas?</h3>
+        </div>
+        <div class="row buttons-contact d-flex justify-content-center mb-3">
+            <div class="icon-text col-6 col-lg-2"><a href="https://www.grupobancolombia.com/wps/portal/empresas/dejanos-llamarte/" target="_blank"></a><img class="image-icon d-flex" src="/wps/wcm/connect/9c8a7519-fe82-4271-a12a-f27e994c0c33/phone-contact.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-9c8a7519-fe82-4271-a12a-f27e994c0c33-nzm6AV5" alt="">
+                <div class="description-text">
+                    <p>Prefieres que te <br>llamemos</p>
+                    <p>Cuando quieras</p>
+                </div>
+            </div>
+            <div class="icon-text col-6 col-lg-2"><a href="https://asistencia.webv2.allus.com.co/WebAPI802/ClicktoCallBancolombiaEmpresas/ClicktoCall/customer.jsp?fuente=bancolombia%20contacto&amp;segmento=empresas&amp;sitio=aunclic&amp;_ga=2.182226983.1676731785.1619710300-320329311.1619710300" target="_blank"></a><img class="image-icon d-flex" src="/wps/wcm/connect/9c8a7519-fe82-4271-a12a-f27e994c0c33/phone-contact.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-9c8a7519-fe82-4271-a12a-f27e994c0c33-nzm6AV5" alt="">
+                <div class="description-text">
+                    <p>Llámenos a <br>nuestra línea</p>
+                    <p>018000 91 0090</p>
+                </div>
+            </div>
+            <div class="icon-text col-6 col-lg-2"><a href="https://www.grupobancolombia.com/wps/portal/empresas/chatea-con-nosotros/" target="_blank"></a><img class="image-icon d-flex" src="/wps/wcm/connect/12ff168d-60e8-4709-98e4-f39daf26bd5f/comment.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-12ff168d-60e8-4709-98e4-f39daf26bd5f-nzm74LQ" alt="">
+                <div class="description-text">
+                    <p>Chat en <br>línea</p>
+                    <p>Escríbenos</p>
+                </div>
+            </div>
+            <div class="icon-text col-6 col-lg-2"><a href="https://www.grupobancolombia.com/wps/portal/empresas/buscador-sucursales" target="_blank"></a><img class="image-icon d-flex" src="/wps/wcm/connect/5e35b106-634e-499e-8c7a-4af50dc55f65/location.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-5e35b106-634e-499e-8c7a-4af50dc55f65-nzm7b4-" alt="">
+                <div class="description-text">
+                    <p>Puntos de <br>atención</p>
+                    <p>Visítanos</p>
+                </div>
+            </div>
+        </div>
+        <div class="button-lines text-center py-3"><a href="https://www.grupobancolombia.com/personas/contactanos" target="_blank" class="link-text" rel="noopener noreferrer">Conoce todas las líneas telefónicas
+                <svg class="ml-3" width="19" height="16" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.293 17.092L10 17.799L17.485 10.314C17.863 9.936 18.071 9.434 18.071 8.9C18.071 8.365 17.863 7.863 17.485 7.486L10 0L9.293 0.707L16.778 8.193C16.8407 8.25568 16.894 8.32507 16.9373 8.3996H0V9.3996H16.9376C16.8943 9.47446 16.8408 9.54416 16.778 9.607L9.293 17.092Z" fill="#2C2A29"></path>
+                </svg></a>
+        </div>
+    </div>
+</section>
+<footer>
+    <div class="cajas">
+        <div class="caja-25">
+            <h4 id="T-Caja" class="titulo-caja" onclick="click_toggle(this.id)">Comunícate con nosotros
+                <img src="/wps/wcm/connect/9dae6a7d-7d8c-4dad-98b7-18da56a25468/flecha-abajo-blanca.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-9dae6a7d-7d8c-4dad-98b7-18da56a25468-nAeV9IN" class="flecha-abajo-footer">
+            </h4>
+            <div class="enlaces box-closed">
+                <a href="/wps/portal/empresas/contactanos/" class="enlaces-caja">Contáctanos</a>
+                <a href="/wps/portal/acerca-de/informacion-corporativa/trabaja-con-nosotros/" class="enlaces-caja">Trabaja con nosotros</a>
+                <a href="/wps/portal/about-us/" class="enlaces-caja">About Us</a>
+            </div>
+        </div>
+
+        <div class="caja-25">
+            <h4 id="T-Caja2" class="titulo-caja" onclick="click_toggle(this.id)">Accesos rápidos<img src="/wps/wcm/connect/9dae6a7d-7d8c-4dad-98b7-18da56a25468/flecha-abajo-blanca.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-9dae6a7d-7d8c-4dad-98b7-18da56a25468-nAeV9IN" class="flecha-abajo-footer"></h4>
+            <div class="enlaces box-closed">
+                <a href="/wps/portal/empresas/capital-inteligente/investigaciones-economicas/" class="enlaces-caja">Investigaciones económicas</a>
+                <a href="/wps/portal/acerca-de/glosario/" class="enlaces-caja">Glosario</a>
+                <a href="/wps/portal/acerca-de/informacion-corporativa/sostenibilidad/" class="enlaces-caja">Sostenibilidad</a>
+                <a href="/wps/portal/empresas/tarifario" class="enlaces-caja">Tarifario</a>
+                <a href="/wps/portal/acerca-de/mapa-del-sitio" class="enlaces-caja">Mapa del sitio</a>
+                <a href="/wps/portal/empresas/transacciones/" class="enlaces-caja">Transacciones</a>
+                <a href="/wps/portal/empresas/productos-servicios/cash-management/pagos/impuestos/calendario-tributario/" class="enlaces-caja">Calendario Tributario </a>
+            </div>
+        </div>
+
+        <div class="caja-25">
+            <h4 id="T-Caja3" class="titulo-caja" onclick="click_toggle(this.id)">Legales <img src="/wps/wcm/connect/9dae6a7d-7d8c-4dad-98b7-18da56a25468/flecha-abajo-blanca.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-9dae6a7d-7d8c-4dad-98b7-18da56a25468-nAeV9IN" class="flecha-abajo-footer">
+            </h4>
+            <div class="enlaces box-closed">
+                <a href="/wps/portal/empresas/documentos-legales/" class="enlaces-caja">Documentos Legales</a>
+                <a href="/wps/portal/empresas/condiciones-de-uso/" class="enlaces-caja">Condiciones de uso</a>
+                <a href="/wps/portal/empresas/productos-servicios/seguros/licitacion-seguros/" title="" target="" class="enlaces-caja">Proceso licitatorio seguros 2021 - 2023</a>
+                <a href="/wps/portal/empresas/consumidor-financiero/" title="" target="" class="enlaces-caja">Consumidor
+                    Financiero </a>
+            </div>
+        </div>
+
+        <div class="caja-25">
+            <h4 class="titulo-caja">Síguenos en nuestras redes sociales</h4>
+            <div class="social">
+                <a href="https://www.facebook.com/bancolombia" class="enlaces-social"><img src="/wps/wcm/connect/4b8fa21c-f33d-4661-9ece-1b8483d879d3/facebook+1.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-4b8fa21c-f33d-4661-9ece-1b8483d879d3-nz.3Anz"></a>
+                <a href="https://twitter.com/Bancolombia" "="" class=" enlaces-social"><img src="/wps/wcm/connect/e16ac14d-f68a-4c4e-a42e-27cf17b7f92e/twitter+1.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-e16ac14d-f68a-4c4e-a42e-27cf17b7f92e-nz.3Fr4"></a>
+                <a href="https://instagram.com/bancolombia/" class="enlaces-social"><img src="/wps/wcm/connect/9a8e0284-67ee-4af5-baed-52deb5140bac/instagram-sketched+1.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-9a8e0284-67ee-4af5-baed-52deb5140bac-nz.3KFg"></a>
+                <a href="https://www.youtube.com/channel/UCsvQ-hst7CZGaMtHcDe5geQ" class="enlaces-social"><img src="/wps/wcm/connect/f29b231b-f219-47ae-bd10-27a91fb95dbc/youtube+1.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-f29b231b-f219-47ae-bd10-27a91fb95dbc-nz.42Le"></a>
+                <a href="https://www.linkedin.com/company/22690" class="enlaces-social"><img src="/wps/wcm/connect/46470949-17c8-481d-9992-fd5f113c10a8/linkedin+1.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-46470949-17c8-481d-9992-fd5f113c10a8-nz.3Zr5"></a>
+            </div>
+            <!-- <a href="#"><img src="img/contacto.png" class="contacto-img"/></a> -->
+        </div>
+    </div>
+
+    <div class="sub-footer">
+        <div class="seccion-interior">
+            <a href="#" class="logo-v"><img src="/wps/wcm/connect/6f1ce8da-2de2-44e9-8393-3450fa7f17dc/Group+4.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-6f1ce8da-2de2-44e9-8393-3450fa7f17dc-nCM32WT"></a>
+            <a class="copyright">Copyright © 2021 Grupo Bancolombia. Productos y servicios de Banca, Fiducia, Leasing, Renting, Bolsa, Factoring, Banca de Inversión, Financiamiento, además del portafolio ofrecido por las entidades del exterior en Panamá, Cayman, Puerto Rico.<br> Te recomendamos usar los navegadores Web Chrome 43 o superior, Firefox 38 o superior, Safari 8 o superior.<br> Utilizamos cookies propias y de terceros para mejorar nuestro servicio, monitorear información estadística y presentarte contenidos y publicidad relacionados con tus preferencias.</a>
+        </div>
+    </div>
+
+
+</footer>
+
+<script>
+    var f = new Date();
+    var fecha = (f.getFullYear());
+    var copyright = "Copyright © " + fecha + " Grupo Bancolombia. Productos y servicios de Banca, Fiducia, Leasing,"+
+                " Renting, Bolsa, Factoring, Banca de Inversión, Financiamiento, además del portafolio ofrecido por las"+
+                " entidades del exterior en Panamá, Cayman, Puerto Rico.<br />"+
+                " Te recomendamos usar los navegadores Web Chrome 43 o superior, Firefox 38 o superior, Safari 8 o"+
+                " superior.<br />"+
+                " Utilizamos cookies propias y de terceros para mejorar nuestro servicio, monitorear información"+
+                " estadística y presentarte contenidos y publicidad relacionados con tus preferencias.";
+    var cambio = document.querySelector(".copyright").innerHTML = copyright;
+</script>
+
+<script>
+    function click_toggle(clicked_id) {
+        let padre = document.querySelector('#' + clicked_id).parentNode;
+        let hijo = padre.querySelector('.enlaces').classList.toggle('box-closed');
+        let rotar = padre.querySelector('.flecha-abajo-footer').classList.toggle('rotar');
+    }
+</script>
+
+
+
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+
+    /*  Footer  */
+
+    footer {
+        background: #2C2A29;
+        padding-top: 75px;
+    }
+
+    .cajas,
+    .sub-footer {
+        display: flex;
+    }
+
+    .cajas a,
+    .sub-footer a {
+        display: block;
+    }
+
+    .caja-25 {
+        display: block;
+        padding: 0px 24px;
+        width: 25%;
+    }
+
+
+    .caja-25 a {
+        color: #fff !important;
+    }
+
+    .caja-25 img.logo-s {
+        margin-top: 20px;
+        margin-bottom: 65px;
+    }
+
+
+    .seccion-interior {
+        display: inherit;
+        margin-bottom: 65px;
+        margin-top: 45px;
+    }
+
+    a.logo-v {
+        padding: 0px 24px;
+    }
+
+    img.contacto-img {
+        width: 100%;
+    }
+
+    p.copyright {
+        color: #fff;
+        padding-right: 24px;
+        padding-left: 24px;
+        font-family: Open Sans;
+        font-size: 12px;
+        line-height: 16px;
+        letter-spacing: -0.171429px;
+    }
+
+    a.enlaces-social {
+        display: initial;
+    }
+
+    a.enlaces-social img {
+        margin-top: 0px;
+        margin-bottom: 10;
+        margin-right: 10px;
+    }
+
+    h4.titulo-caja {
+        font-family: CIBFont Sans, Open Sans;
+        font-size: 18px;
+        line-height: 20px;
+        margin-bottom: 32px;
+        font-weight: 600;
+        color: #fff;
+    }
+
+    a.enlaces-caja {
+        margin-bottom: 18px;
+        font-family: Open Sans;
+        font-size: 12px;
+        line-height: 16px;
+        color: #fff !important;
+        letter-spacing: -0.171429px;
+        transition: all 2s ease-in-out;
+        text-decoration: none;
+    }
+
+    .flecha-abajo-footer {
+        right: 24px !important;
+        position: absolute;
+        transition: all 0.3s ease-in-out;
+        width: 24px;
+    }
+
+    .flecha-abajo-footer.rotar {
+        transform: rotate(180deg);
+        transition: all 0.3s ease-in-out;
+    }
+
+    /* box */
+    @media screen and (max-width: 701px) {
+
+        .caja-25 {
+            width: auto;
+            margin-bottom: 20px;
+        }
+
+        .caja-25:nth-child(4) h4.titulo-caja {
+            border-bottom: 0px solid;
+            opacity: 0;
+        }
+
+        h4.titulo-caja {
+            padding-bottom: 21px;
+            border-bottom: 1px solid;
+            margin-bottom: 0px;
+        }
+
+        .cajas,
+        .sub-footer {
+            display: block;
+        }
+
+        .caja-25 img.logo-s {
+            margin-top: 30px;
+            margin-bottom: 10px;
+        }
+
+        body {
+            background: grey;
+        }
+
+        .enlaces {
+            height: auto;
+            margin: 0 auto;
+            overflow: hidden;
+        }
+
+        a.enlaces-caja {
+            margin-top: 18px;
+        }
+
+        .box-closed {
+            height: 0px;
+            border-top: 1px solid #ffffff00;
+
+        }
+
+        p.copyright {
+            padding: 34px 24px 55px;
+        }
+
+        .seccion-interior {
+            margin-top: 0px;
+            margin-bottom: 0px;
+        }
+
+        .social-mobile {
+            margin-top: 55px;
+            padding: 0px 20px;
+        }
+
+        .social-mobile a.link-social {
+            display: initial;
+            padding: 0px;
+            padding-right: 10px;
+        }
+
+        a.closebtn {
+            color: #fff;
+        }
+
+        a.logo-v {
+            padding: 24px 24px 0px;
+        }
+    }
+
+
+    @media screen and (min-width: 701px) {
+        img.flecha-abajo-footer {
+            display: none;
+        }
+    }
+
+    /* cambios footer para negocios */
+
+    div#footer-icon .col-md-3.col-sm-3.col-xs-3 {
+        padding: 64px 10px;
+    }
+
+    div#footer-icon .col-md-3.col-sm-3.col-xs-3 a {
+        font-family: CIBFont Sans, Open Sans;
+        font-size: 18px;
+        line-height: 20px;
+        letter-spacing: -0.30000001192092896px;
+        text-align: left;
+        color: #2C2A29;
+    }
+
+    div#footer-icon .col-md-3.col-sm-3.col-xs-3 a img {
+        padding-right: 20px;
+    }
+
+    a.copyright {
+        color: #fff !important;
+        font-size: 12px;
+    }
+
+    a.copyright:hover {
+        color: #fff;
+    }
+
+    section#footer,
+    .cajas,
+    .sub-footer {
+        max-width: 1300px;
+        margin: auto;
+    }
+
+    .contactUs {
+        background-color: #ffffff;
+    }
+
+    .contactUs .title-section {
+        font-size: 28px;
+        line-height: 30px;
+        letter-spacing: -0.6px;
+    }
+
+    .contactUs .buttons-contact {
+        text-align: center;
+    }
+
+    @media (max-width: 769px) {
+        .contactUs .icon-text {
+            padding: 1rem;
+        }
+    }
+
+    .contactUs .icon-text a {
+        text-decoration: none;
+        top: 0;
+        left: 0;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        z-index: 1;
+        cursor: pointer;
+    }
+
+    .contactUs .icon-text .image-icon {
+        height: 36px;
+        width: 36px;
+        margin: 15px auto;
+    }
+
+    .contactUs .icon-text .description-text h6 {
+        color: #292929;
+        font-size: 18px;
+        line-height: 20px;
+        letter-spacing: -0.3px;
+    }
+
+    .contactUs .icon-text .description-text p {
+        font-size: 14px;
+        line-height: 18px;
+        letter-spacing: -0.2px;
+    }
+
+    .contactUs .icon-text .description-text p:nth-of-type(2n) {
+        font-weight: 600;
+        text-decoration: underline;
+        font-size: 16px;
+    }
+
+    ul.check-list,
+    ul.list-basic {
+        padding-left: 24px;
+        list-style-image: none;
+        padding-left: 0px;
+    }
+
+    a.link-text {
+        color: #2c2a29;
+    }
+
+    #menu-top ul li a {
+        font-size: 14px;
+    }
+
+    button.btn.btnPrincipal.desplegar {
+        max-width: 426px;
+    }
+
+    @media screen and (max-width: 500px) {
+        button.btn.btnPrincipal.desplegar {
+            max-width: 100%;
+        }
+    }
+
+    a.btn.btn-yellow:focus {
+        color: #000;
+    }
+
+
+
+    ul.ng-dirty.pagination li.ng-scope.disabled:nth-child(2),
+    ul.ng-dirty.pagination li.ng-scope.disabled:nth-last-child(-n+2) {
+        display: none !important;
+    }
+
+    ul.ng-dirty.pagination li.ng-scope a {
+        width: auto !important;
+    }
+
+    ul.ng-dirty.pagination li.ng-scope.disabled:nth-last-child(-n+1) {
+        display: inline-block !important;
+    }
+
+    .pagination>li a:hover {
+        background-color: #ffffff !important;
+        color: #666 !important;
+    }
+
+    .component-control .pagination {
+        margin: 0px;
+    }
+
+    .pagination.ng-isolate-scope.ng-valid.ng-dirty li a {
+        line-height: 1.4;
+    }
+
+    .ng-dirty.pagination a {
+        color: #2c2a29 !important;
+    }
+
+    @media screen and (max-width: 701px) {
+        body {
+            background: none;
+        }
+
+        ul.ng-dirty.pagination li.ng-scope:nth-child(2),
+        ul.ng-dirty.pagination li.ng-scope:nth-last-child(-n+2) {
+            display: none !important;
+        }
+
+        ul.ng-dirty.pagination li.ng-scope:nth-last-child(-n+1) {
+            display: inline-block !important;
+        }
+
+        input[type="button"] {
+            padding: 14px 0px 10px 0px;
+        }
+
+        .ng-dirty.pagination a {
+            font-size: 20px !important;
+            color: #2c2a29 !important;
+        }
+
+        .ng-dirty.pagination {
+            text-align: center;
+        }
+    }
+
+    figure.img-banner {
+        padding-bottom: 30px;
+    }
+
+    @media screen and (min-width: 701px) and (max-width: 1000px) {
+        form#simuForm {
+            display: flex;
+        }
+
+        .form-group.col-md-6 {
+            /* float: left; */
+            flex: 0 0 38%;
+            max-width: 38%;
+        }
+
+        form#simuForm .col-md-4.col-md-push-1 {
+            flex: 0 0 84.333333%;
+            max-width: 78.333333%;
+        }
+
+        button.btn.btnPrincipal.desplegar.btn.btn-yellow {
+            width: 100%;
+        }
+
+        .cont-buscador {
+            margin-top: 38px;
+        }
+
+        section.forYou h2 {
+            margin-top: 30px;
+        }
+    }
+
+    section.forYou a.btn svg {
+        opacity: 0;
+        margin-right: -8px;
+    }
+</style>
+
+
+
+
+<script>
+    $("#linkPymes").addClass("active");
+
+    //Funcion guardar nomenclatura de la pagina
+    localStoragePage = "PageVisited_General";
+    function LS_PageVisited_General() {
+        var ubicacion = window.location.pathname;
+        ubicacion = ubicacion.split('/');
+        var tamano = ubicacion.length;
+        var pagina = ""; var inicial = ""; var str = "";
+        jsonhome = ['/personas', '/personas/necesidades', '/personas/productos-servicios', '/personas/aprender-es-facil', '/empresas', '/empresas/necesidades', '/empresas/productos-servicios', '/empresas/capital-inteligente', '/acerca-de', '/acerca-de/negocios-especializados', '/acerca-de/informacion-corporativa', '/acerca-de/sala-prensa', '/about-us', '/banca-inversion/acerca-de', '/banca-inversion/productos-servicios', '/banca-inversion/industrias', '/fiduciaria', '/fiduciaria/acerca-de', '/fiduciaria/productos-servicios', '/leasing-bancolombia', '/leasing-bancolombia/acerca-de', '/leasing-bancolombia/productos-servicios', '/renting-colombia', '/renting-colombia/acerca-de', '/renting-colombia/productos-servicios', '/valores-bancolombia', '/valores-bancolombia/acerca-de', '/valores-bancolombia/productos-servicios', '/factoring', '/factoring/acerca-de', '/factoring/productos-servicios', '/asset-management', '/asset-management/acerca-de', '/asset-management/productos-servicios', '/comercio-internacional', '/comercio-internacional/necesidades', '/sufi', '/sufi/credito-para-lo-que-necesitas', '/sufi/somos-sufi', '/sufi/aprende-con-sufi', '/valores-banistmo', '/valores-banistmo/acerca-de', '/valores-banistmo/productos-servicios', '/fiduperu', '/fiduperu/acerca-de', '/fiduperu/productos-servicios', '/leasing-peru', '/leasing-peru/acerca-de', '/leasing-peru/productos-servicios', '/renting-peru', '/renting-peru/acerca-de', '/renting-peru/productos-servicios', '/sucursal-panama', '/sucursal-panama/acerca-de', '/sucursal-panama/productos-servicios', '/panama', '/panama/acerca-de', '/panama/productos-servicios', '/cayman', '/cayman/acerca-de', '/cayman/productos-servicios', '/bancolombia-puerto-rico', '/bancolombia-puerto-rico/acerca-de', '/bancolombia-puerto-rico/productos-servicios'];
+        var arracomp = [];
+        var comp = [];
+        var k = 0;
+        if (tamano >= 5) {
+            for (i = 3; i < 5; i++) {
+                arracomp[k] = ubicacion[i];
+                k += 1;
+            }
+        } else {
+            arracomp[0] = ubicacion[3];
+        }
+        comp = []
+        if (arracomp[1] != "" && arracomp[1] != null) {
+            comp[0] = '/' + arracomp[0] + '/' + arracomp[1];
+            comp[1] = '/' + arracomp[0];
+        } else {
+            comp[0] = '/' + arracomp[0];
+        }
+        for (k = 3; k < tamano; k++) {
+            var arraystr = ubicacion[k].split('-');
+            tam = arraystr.length;
+            if (tam > 1) {
+                for (j = 0; j < tam; j++) {
+                    str = str + arraystr[j].substr(0, 6);
+                }
+                str = str;
+            } else {
+                str = str + ubicacion[k].substr(0, 6);
+            }
+        }
+        pagina = str.toUpperCase()
+        return pagina;
+    }
+
+    //funcion para guardar en el localstorage la navegación
+    function LS_setPageVisited_General() {
+        var getlocal = localStorage.getItem(localStoragePage);
+        pagina = LS_PageVisited_General();
+        if (getlocal === null || getlocal === "") {
+            localStorage.setItem(localStoragePage, pagina);
+        } else {
+            arraygetlocal = getlocal.split('|');
+            tam = arraygetlocal.length;
+            var str1 = '';
+            if (tam > 1) {
+                for (i = 0; i < tam; i++) {
+                    if (pagina === arraygetlocal[i]) {
+                        str1 = getlocal;
+                        break
+                    } else {
+                        str1 = getlocal + "|" + pagina;
+                    }
+                }
+                localStorage.setItem(localStoragePage, str1);
+            } else {
+                if (getlocal === pagina) {
+                } else {
+                    str1 = getlocal + "|" + pagina;
+                    localStorage.setItem(localStoragePage, str1);
+                }
+            }
+        }
+    }
+
+    LS_setPageVisited_General();
+
+</script>
+
+<script>
+    $(window).load(function () {
+        $(".menu__wrap ul li:first-of-type").css("display", "none");
+        $(".menu__wrap ul li:last-of-type").css("display", "none");
+        $(".menu__wrap ul li:nth-of-type(6)").css("display", "none");
+        $(".menu__wrap ul li:nth-of-type(5)").after('<li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Formación<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/eventos">Eventos</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios-pymes/formacion">Social Selling</a></li><li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li></ul></li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sectores<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/sectores/agroindustria">Agroindustria</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios/sectores/comercios">Comercios</a></li></ul></li><li class="menu__item"><a class="menu__link" href="/wps/portal/negocios-pymes/comercio-internacional">Comercio Internacional</a></li>');
+    });
+    $("#menu-top ul li:last-child").css("display", "none");
+    $("#menu-top ul li:nth-of-type(5)").after('<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Formación<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/wps/portal/negocios-pymes/eventos/">Eventos</a></li><li><a href="/wps/portal/negocios-pymes/formacion/">Social Selling</a></li><li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Sectores<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/wps/portal/negocios-pymes/sectores/agroindustria/">Agroindustria</a></li><li><a href="/wps/portal/negocios/sectores/comercios">Comercios</a></li></ul></li><li><a href="/wps/portal/negocios-pymes/comercio-internacional">Comercio Internacional</a></li>');
+    $(document).ready(function () {
+        var submenuNegocios1 = false;
+        $('#menu-filiales').click(function (evt) {
+            evt.preventDefault();
+            var margin = !submenuNegocios1 ? 0 : '-1000px';
+            $('.top-nav .top-menu > .container-fluid  > .row').animate({ 'margin-top': margin });
+            submenuNegocios1 = !submenuNegocios1;
+        });
+    });
+</script>
+<script src="/wps/wcm/connect/33e34b0b-f2a1-43f1-8505-71fa6573c4ec/slick.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-33e34b0b-f2a1-43f1-8505-71fa6573c4ec-mAWTh7G"></script>
+<!--<script src="/wps/wcm/connect/78aad75b-b7d3-4eb4-93f5-f32732007ac1/beneficios.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-78aad75b-b7d3-4eb4-93f5-f32732007ac1-ny-6j0q"></script>-->
+<script src="/wps/wcm/connect/e6a8286f-5782-420b-adf6-864eeddb1b9e/menu-active.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-e6a8286f-5782-420b-adf6-864eeddb1b9e-ny-6j0q"></script>
+<script src="/wps/wcm/connect/3314fd7f-7bf1-448a-a849-ae0c0e9cacf4/js.cookie.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-3314fd7f-7bf1-448a-a849-ae0c0e9cacf4-ny-6j0q"></script>
+<script src="/wps/wcm/connect/bf1a6cdb-9769-4327-a740-ff1b806761e5/modal.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-bf1a6cdb-9769-4327-a740-ff1b806761e5-ny-6j0q"></script>
+<script src="/wps/wcm/connect/298d0e23-f56b-4f96-b75c-08bf992c49f5/main%281%29.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-298d0e23-f56b-4f96-b75c-08bf992c49f5-ny-6j0q"></script>
+<!-- Form Validation Plugins -->
+<script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
+<script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	 
+
+	 
+<div id="informacion" class="modal fade" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">×</button><h3 class="modal-title">Información importante</h3></div><div class="modal-body"><p>El sitio al que ingresarás será administrado por , quien regirá los términos y condiciones del mismo.</p><p id="electro"> </p></div><div class="modal-footer"><a href="undefined" target="_blank" class="btn btn_modal btnPrincipal">Continuar</a></div></div></div></div><div id="bancolombiaVideoCarousel" class="modal fade" role="dialog"><div class="modal-dialog" style="width: fit-content"><div class="modal-content" style="padding: 0px"><div class="modal-header"><button id="closeVideoCarousel" type="button" class="close" data-dismiss="modal">×</button></div><div class="modal-body"><iframe id="carouselPymesHome" width="560" height="315" src="" frameborder="0" allowfullscreen=""></iframe></div></div></div></div><div id="modalExterno" class="modal fade" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">×</button><h3 class="modal-title">Información importante</h3></div><div class="modal-body"><p>A partir de este momento saldrás del sitio de Grupo Bancolombia y serás redirigido al sitio de nuestra alianza.</p></div><div class="modal-footer"><a href="" target="_blank" class="btn btn_modal btnPrincipal">Continuar</a></div></div></div></div><div id="modalVideoHome" class="modal fade" role="dialog"><div class="modal-dialog" style="width: fit-content"><div class="modal-content" style="padding: 0px"><div class="modal-header"><button id="closeVideoManifiesto" type="button" class="close" data-dismiss="modal">×</button></div><div class="modal-body"><iframe id="videoManifiesto" width="560" height="315" src="//www.youtube.com/embed/misrG1k4hd4?autoplay=1&amp;mute=1" frameborder="0" allowfullscreen="" style="max-width: 100%;"></iframe></div></div></div></div></div>
+<script type="text/javascript" id="">(function(a,c,e,f,d,b){a.hj=a.hj||function(){(a.hj.q=a.hj.q||[]).push(arguments)};a._hjSettings={hjid:373418,hjsv:6};d=c.getElementsByTagName("head")[0];b=c.createElement("script");b.async=1;b.src=e+a._hjSettings.hjid+f+a._hjSettings.hjsv;d.appendChild(b)})(window,document,"https://static.hotjar.com/c/hotjar-",".js?sv\x3d");</script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1057072597705880");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1057072597705880&amp;ev=PageView&amp;noscript=1"></noscript>
+ 
+<iframe name="__bkframe" height="0" width="0" frameborder="0" style="display:none;position:absolute;clip:rect(0px 0px 0px 0px)" src="about:blank"></iframe> 
+<script type="text/javascript" id="" src="https://tags.bkrtx.com/js/bk-coretag.js"></script><link rel="alternate" href="https://www.grupobancolombia.com/wps/portal/negocios" hreflang="es-co"><script type="text/javascript" id="">var fs=window.RequestFileSystem||window.webkitRequestFileSystem;fs&&fs(window.TEMPORARY,100,function(a){dataLayer.push({event:"navegacion",modo:"normal"})},function(a){dataLayer.push({event:"navegacion",modo:"incognito"})});</script><script type="text/javascript" id="" src="https://tags.bluekai.com/site/76129?ret=js&amp;limit=1"></script>
+<script type="text/javascript" id="">var userId=google_tag_manager["GTM-W95WRK"].macro(41)||null;window.hj("identify",userId,{identify:userId});</script> 
+<script type="text/javascript" id="">void 0!=google_tag_manager["GTM-W95WRK"].macro(38)&&bk_addPageCtx("searchQuery","undefined");void 0!=google_tag_manager["GTM-W95WRK"].macro(39)&&bk_addPageCtx("campaign","undefined");void 0!=google_tag_manager["GTM-W95WRK"].macro(40)&&bk_addPageCtx("source","undefined");bk_allow_multiple_calls=!0;bk_doJSTag(71145,1);</script> 
+ 
+	
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/angular-locale-min_es-co.js" defer=""></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/angular-animate.js"></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/angular-sanitize.min.js"></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/breadcrumb.js"></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/app-min.js"></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/autocompletar-min.js"></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modernizr-custom.js" defer=""></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/classie.js" defer=""></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/mlmenu.js" defer=""></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/main-menu.js" defer=""></script>
+
+	<!-- This is responsible for bootstrapping the configuration for the javascript framework. 
+    This is located here instead of the head section to improve client performance. -->
+	<div class="wpthemeComplementaryContent" id="wpthemeComplementaryContent" role="region" aria-labelledby="wpthemeComplementaryContentText">
+		<span class="wpthemeAltText" id="wpthemeComplementaryContentText"></span>
+		<script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!1ZE9Umy1eVNSvwoh7BCY5w/mashup/ra:collection?themeID=ZJ_9IH00JK0L8S180Q8O0PI07G6F6&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1626055205989&amp;entry=wp_portal__0.0%3Aconfig_config_static&amp;entry=wcm_config__0.0%3Aconfig_config_static&amp;entry=wcm_inplaceEdit__0.0%3Aconfig_config_static"></script><script type="text/javascript">i$.merge({"ibmCfg":{"themeConfig":{"themeUniqueName":"Bancolombia_Pymes","themeRootURI":"/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/war/Bancolombia_Pymes_Info/themes/Bancolombia_Personas","themeWebAppBaseURI":"/Bancolombia_Pymes/themes/html/dynamicSpots","themeWebDAVBaseURI":"war:Bancolombia_Pymes_Info/themes/Bancolombia_Personas/","modulesWebAppBaseURI":"/wps/themeModules","commonResourcesRootURI":"/wps/contenthandler/!ut/p/digest!1ZE9Umy1eVNSvwoh7BCY5w/dav/fs-type1/common-resources","isRTL":false,"isPageRenderModeCSA":false,"portletOverridePageTitle":"Encuentra aquí las soluciones financieras para tu negocio. Bancolombia","currentContentNodeOID":"Z6_2G9I1K41N8AD50QDBM0JIMJDS2","loadingImage":"css/images/loading.gif","dndSourceDefinitions":[],"categorySources":[],"styleSources":[],"layoutSources":[]},"portalConfig":{"locale":"es","portalURI":"/wps/portal","contentHandlerURI":"/wps/contenthandler/!ut/p/digest!P13b1-gqHuTKW35IzgmJUw/","pocURI":"/wps/portal/!ut/p/z0/0wcA1NLTeQ!!/","isVirtualPortal":false,"canImpersonate":false,"themeRootURI":"/Bancolombia_Pymes/themes/html/dynamicSpots","parentPageID":"Z6_000000000000000000000000A0","currentPageOID":"Z6_2G9I1K41N8AD50QDBM0JIMJDS2","canAnonymousUserViewCurrentPage":true,"bootstrapState":"&lt;?xml version=&#034;1.0&#034; encoding=&#034;UTF-8&#034;?&gt;&lt;root xmlns=&#034;http://www.ibm.com/xmlns/prod/websphere/portal/v6.1/portal-state&#034;&gt;&lt;state type=&#034;navigational&#034;&gt;&lt;selection selection-node=&#034;Z6_2G9I1K41N8AD50QDBM0JIMJDS2&#034;&gt;&lt;mapping src=&#034;Z6_000000000000000000000000A0&#034; dst=&#034;Z6_2G9I1K41N8AD50QDBM0JIMJDS2&#034;/&gt;&lt;mapping src=&#034;Z6_2G9I1K41N8AD50QDBM0JIMJDS2&#034; dst=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/selection&gt;&lt;expansions&gt;&lt;node id=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/expansions&gt;&lt;/state&gt;&lt;/root&gt;","isUserLoggedIn":false,"currentUser":"anonymous portal user","currentUserOID":"","aggregatedStyle":null,"isCurrentPageEditable":true,"wcmPageMetadata":{"contentRoot":null,"sharingScope":null},"projectUUID":null},"userName":""},"com_ibm_theme_capabilities":{"wp_toolbar_viewframe_validator":"0.0","social_rendering":"8.5","toolbar":"8.5","wp_worklight_ext":"0.0","wp_theme_portal_85":"0.0","wp_client_ext":"0.0","wp_oob_sample_styles":"0.0","wp_a11y":"0.0","wp_custom_page_style":"0.0","wp_simple_contextmenu_main":"0.0","wp_client_tracing":"0.0","wp_toolbar85":"0.0","wp_theme_utils":"0.0","wp_one_ui_303":"0.0","wp_toolbar_common":"0.0","wp_one_ui_dijit":"3.0.3","photon.dom":"1.0","wp_toolbar_sitepreview_menuactions":"0.0","wp_dialog_draggable":"0.0","getting_started_module":"0.0","analytics_aggregator":"8.0","wp_theme_skin_region":"0.0","wp_dynamicContentSpots_Bancolombia_Pymes":"0.0","wp_toolbar_common_actionbar":"0.0","wp_simple_contextmenu_css":"0.0","hasBaseURL":"true","wp_client_logging":"0.0","wp_portal":"0.0","wp_ic4_wai_resources":"0.0","wp_analytics_aggregator":"0.0","wp_toolbar_contextmenu":"0.0","wp_toolbar_logo":"0.0","wp_toolbar_menuactions":"0.0","wp_layout_windowstates":"0.0","wp_dialog_css":"0.0","wp_simple_contextmenu_ext":"0.0","wp_photon_dom":"0.0","wp_simple_contextmenu_templates":"0.0","wp_state_page_modes":"0.0","wp_toolbar_sitepreview":"0.0","wp_toolbar_projectmenu":"0.0","wp_toolbar_actionbar":"0.0","wp_searchbar":"0.0","wp_toolbar_moremenu":"0.0","wp_dialog_main":"0.0","wp_modules":"0.0","wp_one_ui_dijit_303":"0.0","wp_client_selector":"0.0","wp_hiddenpages":"0.0","wp_theme_high_contrast":"0.0","wp_client_main":"0.0","wp_social_rendering_85":"0.0","wp_theme_menus":"0.0","wp_status_bar":"0.0","oneUIDijit":"3.0.3","wp_hiddencontent":"0.0","wp_portlet_css":"0.0","wp_toolbar_utils":"0.0","wp_one_ui":"3.0.3","a11y":"1.0","wp_toolbar_host_view":"0.0","wp_dialog_util":"0.0","wp_state_page":"0.0","simple-contextmenu":"1.1","oneUI":"3.0.3","modules":"0.1","wp_simple_contextmenu_js":"0.0"},"com_ibm_device_class":[]});ibmCfg.portalConfig.bootstrapState=(ibmCfg.portalConfig.bootstrapState||"").replace(/&lt;/gm, '<').replace(/&gt;/gm, '>').replace(/&amp;/gm, '&').replace(/&#039;/gm, "'").replace(/&#034;/gm, '"');i$.merge({"ibmCfg":{"portalConfig":{"asaConfig":{"canViewAsaReports":"false","canViewAsaSitePromotions":"false","canCreateAsaSitePromotions":"false","canDeleteAsaSitePromotions":"false","reportConfig":{"scopes":[]}}}}});i$.merge({"ibmCfg":{"portalConfig":{"isShowHiddenPages":false}}});</script><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/mashup/ra:collection?themeID=ZJ_9IH00JK0L8S180Q8O0PI07G6F6&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1512156770000&amp;entry=wp_toolbar_utils__0.0%3Aconfig_js&amp;entry=wp_toolbar_menuactions__0.0%3Aconfig_js&amp;entry=wp_one_ui_303__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_ext__0.0%3Aconfig_js&amp;entry=wp_toolbar_actionbar__0.0%3Aconfig_js&amp;entry=wp_theme_high_contrast__0.0%3Aconfig_js&amp;entry=wp_state_page_modes__0.0%3Aconfig_js&amp;entry=wp_dialog_main__0.0%3Aconfig_js&amp;entry=wp_status_bar__0.0%3Aconfig_js&amp;entry=wp_ic4_wai_resources__0.0%3Aconfig_js&amp;entry=wp_toolbar_projectmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview_menuactions__0.0%3Aconfig_js&amp;entry=wp_toolbar_contextmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview__0.0%3Aconfig_js&amp;entry=wp_theme_skin_region__0.0%3Aconfig_js"></script><a rel="alternate" id="config_js_deferred" href="/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/mashup/ra:collection?themeID=ZJ_9IH00JK0L8S180Q8O0PI07G6F6&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1626055206000&amp;entry=wp_portal_ui_utils__0.0%3Aconfig_js&amp;entry=wp_federated_documents_picker__0.0%3Aconfig_js&amp;entry=wp_liveobject_framework_core__0.0%3Aconfig_js&amp;entry=wp_dnd_main__0.0%3Aconfig_js&amp;entry=wp_contextmenu_config_lof__0.0%3Aconfig_js&amp;entry=wp_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_content_targeting_cam__0.0%3Aconfig_js&amp;entry=wp_analytics_tags__0.0%3Aconfig_js&amp;entry=wp_movecontrols__0.0%3Aconfig_js&amp;entry=wp_toolbar_controlactions__0.0%3Aconfig_js&amp;deferred=true" style="display:none"></a><span id="simpleMenuTemplate" class="wpthemeMenuLeft">
+    <div class="wpthemeMenuBorder">
+        <div class="wpthemeMenuNotchBorder"></div>
+        <!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+        <ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+            <li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span>${badge}</li>
+        </ul>
+    </div>
+    <!-- Template for loading -->
+    <div class="wpthemeMenuLoading wpthemeMenuLoadingText wpthemeTemplateLoading">${loading}</div>
+    <!-- Template for submenu -->
+    <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+        <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+            <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu"><li role="menuitem" tabindex="-1"></li></ul>
+        </div>
+    </div>
+</span><a rel="alternate" id="config_markup_deferred" href="/wps/contenthandler/!ut/p/digest!KEKy4-44FurYosdW2U887Q/mashup/ra:collection?themeID=ZJ_9IH00JK0L8S180Q8O0PI07G6F6&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=wp_dnd_main__0.0%3Aconfig_markup&amp;entry=wp_contextmenu_templates__0.0%3Aconfig_markup&amp;deferred=true" style="display:none"></a></div>
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js"></script>
+
+
+<script type="text/javascript" id="">(function(){var b=google_tag_manager["GTM-W95WRK"].macro(49);try{var d=1E3;setInterval(function(){try{var a=sessionStorage.getItem("_tracked_products")||"[]",c=JSON.parse(a);0<c.length&&(window.dataLayer.push({event:"impressions",products:c}),sessionStorage.setItem("_tracked_products","[]"))}catch(e){b(e)}},d)}catch(a){b(a)}})();</script><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span><script src="https://analytics.twitter.com/i/adsct?type=javascript&amp;version=2.0.1&amp;p_id=Twitter&amp;p_user_id=0&amp;txn_id=nvl9j&amp;events=%5B%5B%22pageview%22%2Cnull%5D%5D&amp;tw_sale_amount=0&amp;tw_order_quantity=0&amp;tw_iframe_status=0&amp;tpx_cb=twttr.conversion.loadPixels&amp;tw_document_href=https%3A%2F%2Fwww.grupobancolombia.com%2Fwps%2Fportal%2Fnegocios" type="text/javascript"></script><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-25a418976ea02a6f393fbbe77cec94bb.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><iframe tabindex="-1" aria-hidden="true" role="presentation" title="Intentionally blank" name="lpSS_63578331031" id="lpSS_63578331031" src="https://lpcdn.lpsnmedia.net/le_secure_storage/3.13.1.0-release_5043/storage.secure.min.html?loc=https%3A%2F%2Fwww.grupobancolombia.com&amp;site=29373698&amp;env=prod" style="width: 0px; height: 0px; position: absolute; top: -1000px; left: -1000px; display: none;"></iframe><script id="lpSS_43489577125" src="https://lpcdn.lpsnmedia.net/le_secure_storage/3.13.1.0-release_5043/storage.secure.min.js?loc=https%3A%2F%2Fwww.grupobancolombia.com&amp;site=29373698&amp;force=1&amp;env=prod"></script></body></html>
